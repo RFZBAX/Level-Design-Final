@@ -2593,3 +2593,229 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.25-21.26.25:596][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.04.25-21.26.25:606][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
 [2020.04.25-21.26.25:627][810]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.25-21.40.13:661][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CrapeMyrtle_Fall_Low)
+[2020.04.25-21.40.22:764][146]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ZhangJiajieMountain/Meshes/Tree/CrapeMyrtle_Fall_Low/CrapeMyrtle_Fall_Low_Branch_Mat.CrapeMyrtle_Fall_Low_Branch_Mat
+[2020.04.25-21.40.22:773][146]LogMaterial: Display: Missing cached shader map for material CrapeMyrtle_Fall_Low_Branch_Mat, compiling. 
+[2020.04.25-21.40.22:920][146]LogMaterial: Display: Missing cached shader map for material CrapeMyrtle_Fall_Low_Branch_Mat, compiling. 
+[2020.04.25-21.40.22:938][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.04.25-21.40.22:938][146]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.04.25-21.40.22:939][146]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.04.25-21.40.22:939][146]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.04.25-21.40.22:945][146]LogMaterial: Display: Missing cached shader map for material CrapeMyrtle_Fall_Low_Branch_Mat, compiling. 
+[2020.04.25-21.40.22:986][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.25-21.40.23:001][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.25-21.40.23:015][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.25-21.40.23:742][175]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2020.04.25-21.40.23:742][175]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2020.04.25-21.40.23:762][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.04.25-21.40.24:027][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.04.25-21.40.24:076][196]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.04.25-21.40.24:228][205]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2020.04.25-21.40.24:380][214]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.04.25-21.40.24:444][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2020.04.25-21.40.24:595][227]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.04.25-21.40.24:913][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.04.25-21.40.25:047][254]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.04.25-21.40.25:129][259]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.04.25-21.40.25:295][268]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.04.25-21.40.25:379][273]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.04.25-21.40.25:646][289]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.04.25-21.40.25:710][293]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.04.25-21.40.25:810][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.04.25-21.40.26:045][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.25-21.40.26:579][345]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.04.25-21.40.26:678][351]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.04.25-21.40.26:728][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.04.25-21.40.26:965][367]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.04.25-21.40.27:509][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.25-21.40.27:553][397]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.25-21.40.27:617][401]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.04.25-21.40.27:835][414]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.04.25-21.40.28:343][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.25-21.40.28:529][452]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.25-21.40.28:931][466]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.04.25-21.40.29:102][472]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.25-21.40.29:184][475]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.25-21.40.29:211][475]MaterialEditorStats: Base pass shader: 152 instructions
+[2020.04.25-21.40.29:211][475]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 245 instructions
+[2020.04.25-21.40.29:211][475]MaterialEditorStats: Base pass vertex shader: 186 instructions
+[2020.04.25-21.40.29:211][475]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.25-21.40.29:211][475]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.04.25-21.40.29:211][475]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.25-21.40.29:299][480]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.25-21.40.29:519][488]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.04.25-21.40.29:662][493]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.25-21.40.29:862][500]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.04.25-21.40.29:994][505]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.25-21.40.30:082][508]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.25-21.40.30:246][514]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.25-21.43.53:891][659]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.04.25-21.43.53:925][660]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.04.25-21.43.53:925][660]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.04.25-21.43.53:925][660]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.04.25-21.43.53:925][660]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.25-21.43.53:990][660]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.04.25-21.43.54:219][662]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.04.25-21.43.54:342][663]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.04.25-21.43.54:427][664]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.04.25-21.43.54:530][665]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2020.04.25-21.43.54:631][666]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2020.04.25-21.43.56:744][732]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 204
+[2020.04.25-21.43.57:096][745]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 194
+[2020.04.25-21.43.57:867][773]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 184
+[2020.04.25-21.44.00:117][879]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 174
+[2020.04.25-21.44.00:457][899]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 164
+[2020.04.25-21.44.00:496][900]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/temp.D57B593D45176787B17BA9B80D145C61 (磁盘空间不足。)
+[2020.04.25-21.44.00:496][900]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/temp.D57B593D45176787B17BA9B80D145C61! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.00:496][900]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/temp.DC983655444BEA5F6331C7897FFD1290 (磁盘空间不足。)
+[2020.04.25-21.44.00:496][900]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/temp.DC983655444BEA5F6331C7897FFD1290! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.00:496][900]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___992450E7B5B54639032338482DBD4893C7F556C2.
+[2020.04.25-21.44.01:081][934]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 154
+[2020.04.25-21.44.03:999][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 144
+[2020.04.25-21.44.04:165][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 134
+[2020.04.25-21.44.04:803][144]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 124
+[2020.04.25-21.44.04:841][145]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/2/temp.B4FFB6AD4A382A1CF248CC9197B98B2F (磁盘空间不足。)
+[2020.04.25-21.44.04:841][145]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/2/temp.B4FFB6AD4A382A1CF248CC9197B98B2F! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.04:841][145]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/2/temp.8613C0A54892E767FB2033B27D3D728D (磁盘空间不足。)
+[2020.04.25-21.44.04:841][145]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/2/temp.8613C0A54892E767FB2033B27D3D728D! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.04:841][145]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___AA05977E2C680508BB57D7DBF627D63C73FBD443.
+[2020.04.25-21.44.07:534][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 114
+[2020.04.25-21.44.07:578][263]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 104
+[2020.04.25-21.44.08:883][335]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 94
+[2020.04.25-21.44.08:918][336]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/temp.8E6C283A4B4ACD48644307BC817C17BE (磁盘空间不足。)
+[2020.04.25-21.44.08:918][336]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/temp.8E6C283A4B4ACD48644307BC817C17BE! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.08:918][336]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/temp.FCC0153C47AD9DC2E4BA1FAEB224C76C (磁盘空间不足。)
+[2020.04.25-21.44.08:918][336]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/temp.FCC0153C47AD9DC2E4BA1FAEB224C76C! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.08:918][336]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___2A0BB4EAB96700C82B7213B75F92C56BFCCD4055.
+[2020.04.25-21.44.09:745][369]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2020.04.25-21.44.10:933][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2020.04.25-21.44.11:607][433]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2020.04.25-21.44.13:787][509]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2020.04.25-21.44.13:824][510]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.25BD2F0D4FAA04D04BF63F8D566F98F9 (磁盘空间不足。)
+[2020.04.25-21.44.13:824][510]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.25BD2F0D4FAA04D04BF63F8D566F98F9! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.13:824][510]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.2A5EB21D4152840209CC95A1945F1456 (磁盘空间不足。)
+[2020.04.25-21.44.13:824][510]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.2A5EB21D4152840209CC95A1945F1456! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.13:824][510]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___B5232F17B0725A0A076E13F38C8F232737A0D5E3.
+[2020.04.25-21.44.14:920][549]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2020.04.25-21.44.15:038][553]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.04.25-21.44.16:366][599]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.04.25-21.44.16:415][600]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/temp.96C38609494B83A723D020B18159068A (磁盘空间不足。)
+[2020.04.25-21.44.16:415][600]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/temp.96C38609494B83A723D020B18159068A! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.16:415][600]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/temp.07DDEA2E40CB15C2514E57AAE6D4AA23 (磁盘空间不足。)
+[2020.04.25-21.44.16:415][600]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/temp.07DDEA2E40CB15C2514E57AAE6D4AA23! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.16:415][600]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___98AF9FECC53E61CF52890A8536852ABA5C212551.
+[2020.04.25-21.44.17:900][653]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.25-21.44.18:406][670]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.04.25-21.44.18:804][688]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.04.25-21.44.21:381][791]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.04.25-21.44.21:616][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.25-21.44.21:616][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.25-21.44.21:616][800]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/temp.D16DA2414C25C8CFB59935915520390F (磁盘空间不足。)
+[2020.04.25-21.44.21:616][800]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/temp.D16DA2414C25C8CFB59935915520390F! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.21:616][800]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/temp.1034EAD9476E8A81426918B9A2606448 (磁盘空间不足。)
+[2020.04.25-21.44.21:616][800]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/temp.1034EAD9476E8A81426918B9A2606448! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.21:616][800]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___9B5CE74001DE1AE7EDBF7748F2FB562CE8E615AA.
+[2020.04.25-21.44.21:973][818]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.25-21.44.22:909][832]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/0/temp.7D9C61B7482F31557FBF8AB2C9B891F8 (磁盘空间不足。)
+[2020.04.25-21.44.22:909][832]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/0/temp.7D9C61B7482F31557FBF8AB2C9B891F8! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.22:909][832]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/0/temp.F8844E4144940EFB44562BA64E498A51 (磁盘空间不足。)
+[2020.04.25-21.44.22:909][832]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/0/temp.F8844E4144940EFB44562BA64E498A51! Error: 112 (磁盘空间不足。)
+[2020.04.25-21.44.22:909][832]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MATSM_8915F134E11A46E2ACFF4214A7775BDD_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___1F108CB494BFFD3184FA62D4DBEB07D24D18D8A1.
+[2020.04.25-21.57.25:700][368]Cmd: DELETE
+[2020.04.25-21.57.25:700][368]Cmd: ACTOR DELETE
+[2020.04.25-21.57.25:709][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.25-21.57.25:746][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.04.25-21.57.25:751][368]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.04.25-21.57.26:915][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RuinsBaseC5)
+[2020.04.25-21.57.27:622][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RuinsBaseC5)
+[2020.04.25-21.57.28:299][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (JapaneseMaple_Fall_High)
+[2020.04.25-21.57.29:059][558]Cmd: DELETE
+[2020.04.25-21.57.29:059][558]Cmd: ACTOR DELETE
+[2020.04.25-21.57.29:066][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.25-21.57.29:097][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.25-21.57.29:098][558]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.04.25-21.57.39:006][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.25-21.57.51:324][ 64]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.25-21.57.54:474][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.04.25-21.57.54:476][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/Level21_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.25-21.57.54:788][224]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level21_Auto1712C076B43530D5BF6037B9F6286C90C.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/Level21_Auto1.umap'
+[2020.04.25-21.57.54:791][224]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level21' took 0.346
+[2020.04.25-21.57.54:791][224]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.346
+[2020.04.25-21.58.09:710][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.25-21.58.12:671][ 56]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.25-21.58.15:053][ 56]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/ZhangJiajieMountain/Meshes/Tree/JapaneseMaple_Fall_High/JapaneseMaple_Fall_High_Subsurface_Tex.JapaneseMaple_Fall_High_Subsurface_Tex
+	Asset Name: /Game/ZhangJiajieMountain/Meshes/Tree/JapaneseMaple_Fall_High/JapaneseMaple_Fall_High_Normal_Tex.JapaneseMaple_Fall_High_Normal_Tex
+	Asset Name: /Game/ZhangJiajieMountain/Meshes/Tree/JapaneseMaple_Fall_High/JapaneseMaple_Fall_High_Color_Tex.JapaneseMaple_Fall_High_Color_Tex
+	Asset Name: /Game/ZhangJiajieMountain/Meshes/Tree/JapaneseMaple_Fall_High/JapaneseMaple_Fall_High_Branch_Mat.JapaneseMaple_Fall_High_Branch_Mat
+	Asset Name: /Game/ZhangJiajieMountain/Meshes/Tree/JapaneseMaple_Fall_High/JapaneseMapleBark_Normal_Tex.JapaneseMapleBark_Normal_Tex
+	Asset Name: /Game/ZhangJiajieMountain/Meshes/Tree/JapaneseMaple_Fall_High/JapaneseMapleBark_Color_Tex.JapaneseMapleBark_Color_Tex
+	Asset Name: /Game/ZhangJiajieMountain/Meshes/Tree/JapaneseMaple_Fall_High/JapaneseMapleBark_Branch_Mat.JapaneseMapleBark_Branch_Mat
+	Asset Name: /Game/ZhangJiajieMountain/Meshes/Tree/JapaneseMaple_Fall_High/JapaneseMaple_Fall_High.JapaneseMaple_Fall_High
+[2020.04.25-21.58.39:845][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMaple_Fall_High_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:846][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMaple_Fall_High_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:846][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.39:855][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMaple_Fall_High_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:856][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMaple_Fall_High_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:856][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.39:867][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMaple_Fall_High_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:868][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMaple_Fall_High_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:868][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.39:876][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMaple_Fall_High_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:877][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMaple_Fall_High_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:877][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.39:883][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMaple_Fall_High_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:884][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMaple_Fall_High_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:884][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.39:892][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMaple_Fall_High_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:893][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMaple_Fall_High_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:893][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.39:901][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMapleBark_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:902][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMapleBark_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:902][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.39:908][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMapleBark_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:909][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMapleBark_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:909][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.39:916][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMapleBark_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:917][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMapleBark_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:917][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.39:924][ 56]LogMaterial: Display: Missing cached shader map for material JapaneseMapleBark_Branch_Mat, compiling. 
+[2020.04.25-21.58.39:925][ 56]LogMaterial: Warning: I:\Unreal Project\Level-Design-Final\LDFinal\Content\ZhangJiajieMountain\Meshes\Tree\JapaneseMaple_Fall_High\JapaneseMapleBark_Branch_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.25-21.58.39:925][ 56]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.25-21.58.51:479][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.25-21.58.51:572][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.25-21.58.51:599][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.25-21.58.51:630][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.25-21.58.51:657][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.04.25-21.58.51:684][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.25-21.58.51:710][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.25-21.58.51:738][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.25-21.58.51:769][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.04.25-21.58.51:798][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.25-21.59.08:791][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.25-21.59.29:137][860]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.25-21.59.30:810][948]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-21.59.30:810][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.59.32:767][ 55]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-21.59.32:767][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.59.36:329][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.04.25-21.59.36:356][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.25-21.59.36:392][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.25-21.59.36:719][254]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level21DAE9398D4EC9DBD6FFDA8CB58F072E6D.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap'
+[2020.04.25-21.59.36:767][254]LogFileHelpers: Saving map 'Level21' took 0.411
+[2020.04.25-21.59.36:783][254]AssetCheck: New page: 资源保存：Level21
+[2020.04.25-21.59.36:783][254]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.04.25-21.59.40:753][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.04.25-21.59.44:431][448]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.25-21.59.44:734][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.04.25-21.59.44:763][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.25-21.59.44:790][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.25-21.59.44:815][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.04.25-21.59.44:841][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.25-21.59.44:867][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.25-21.59.44:894][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.04.25-21.59.44:919][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.25-21.59.44:949][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.25-21.59.44:985][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.04.25-21.59.45:012][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.25-21.59.49:832][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
