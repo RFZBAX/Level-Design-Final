@@ -1,0 +1,824 @@
+﻿Log file open, 04/25/20 01:50:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: 我的项目
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.469318
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=RFZBAXDSC -epicuserid=13dd121651364b2e92936b9817328486 -epiclocale=zh-CN
+LogInit: Base Directory: E:/Epic Game/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.04.25-05.50.38:502][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.25-05.50.38:502][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.04.25-05.50.38:502][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.04.25-05.50.38:512][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.25-05.50.38:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.25-05.50.38:513][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.25-05.50.38:514][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:514][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.25-05.50.38:515][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.25-05.50.38:515][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:515][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.25-05.50.38:515][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.25-05.50.38:515][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.25-05.50.38:515][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.25-05.50.38:515][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.25-05.50.38:521][  0]LogHAL: Display: Platform has ~ 16 GB [16985870336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.25-05.50.38:521][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.25-05.50.38:521][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.25-05.50.38:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.25-05.50.38:522][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.25-05.50.38:523][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.04.25-05.50.38:525][  0]LogInit: Computer: DESKTOP-GF1EQQH
+[2020.04.25-05.50.38:525][  0]LogInit: User: hasee
+[2020.04.25-05.50.38:525][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.25-05.50.38:525][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.25-05.50.38:525][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.04.25-05.50.38:525][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.25-05.50.38:525][  0]LogMemory: Process Physical Memory: 105.51 MB used, 105.52 MB peak
+[2020.04.25-05.50.38:525][  0]LogMemory: Process Virtual Memory: 101.05 MB used, 101.05 MB peak
+[2020.04.25-05.50.38:525][  0]LogMemory: Physical Memory: 9936.22 MB used,  6262.77 MB free, 16198.99 MB total
+[2020.04.25-05.50.38:525][  0]LogMemory: Virtual Memory: 5140.35 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.04.25-05.50.38:537][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.25-05.50.38:624][  0]LogInit: Using OS detected language (zh-CN).
+[2020.04.25-05.50.38:624][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.04.25-05.50.38:627][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2020.04.25-05.50.38:769][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.04.25-05.50.38:770][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.04.25-05.50.38:770][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.04.25-05.50.38:770][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.04.25-05.50.38:770][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.04.25-05.50.38:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.04.25-05.50.38:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.04.25-05.50.38:771][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.04.25-05.50.38:772][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.04.25-05.50.38:772][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.04.25-05.50.38:772][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.04.25-05.50.38:831][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.25-05.50.38:915][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.25-05.50.38:915][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.25-05.50.39:442][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.25-05.50.39:442][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.25-05.50.39:442][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.25-05.50.39:442][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.25-05.50.39:615][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2020.04.25-05.50.39:615][  0]LogD3D11RHI:       8144/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.25-05.50.39:750][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.04.25-05.50.39:750][  0]LogD3D11RHI:       128/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.25-05.50.39:758][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.25-05.50.39:758][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.25-05.50.39:758][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.25-05.50.39:834][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.25-05.50.39:834][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.25-05.50.39:834][  0]LogWindows: EnumDisplayDevices:
+[2020.04.25-05.50.39:834][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.04.25-05.50.39:836][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.04.25-05.50.39:838][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.04.25-05.50.39:839][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:1)
+[2020.04.25-05.50.39:841][  0]LogWindows:    4. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2020.04.25-05.50.39:842][  0]LogWindows:    5. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2020.04.25-05.50.39:844][  0]LogWindows:    6. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2020.04.25-05.50.39:846][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.04.25-05.50.39:846][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2020.04.25-05.50.39:846][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2020.04.25-05.50.39:846][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2020.04.25-05.50.39:846][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2020.04.25-05.50.39:954][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.25-05.50.39:954][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.25-05.50.39:980][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.25-05.50.41:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.25-05.50.41:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.25-05.50.41:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.25-05.50.41:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.25-05.50.41:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.25-05.50.41:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.25-05.50.41:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.25-05.50.41:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.25-05.50.41:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.25-05.50.41:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.25-05.50.41:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.25-05.50.41:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.25-05.50.41:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.25-05.50.41:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.25-05.50.41:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.25-05.50.41:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.25-05.50.41:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.25-05.50.41:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.25-05.50.41:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.25-05.50.41:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.25-05.50.41:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.25-05.50.41:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.25-05.50.41:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.25-05.50.41:283][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.25-05.50.41:292][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.25-05.50.41:358][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (I:/Unreal Project/Level-Design-Final/LDFinal/Intermediate/Shaders/WorkingDirectory/22480/).
+[2020.04.25-05.50.41:358][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/'.
+[2020.04.25-05.50.41:361][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.25-05.50.41:361][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.25-05.50.41:361][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.25-05.50.42:600][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.25-05.50.42:601][  0]LogDerivedDataCache: Error: Memory cache was corrputed (size) C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.25-05.50.42:601][  0]LogDerivedDataCache: Warning: Could not load Boot cache: C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.25-05.50.42:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/Unreal Project/Level-Design-Final/LDFinal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.25-05.50.42:601][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.25-05.50.42:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/Unreal Project/Level-Design-Final/LDFinal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.25-05.50.42:601][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.25-05.50.42:615][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.25-05.50.42:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.25-05.50.42:615][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.25-05.50.42:618][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.25-05.50.42:619][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.25-05.50.42:619][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.25-05.50.42:761][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.25-05.50.42:764][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.25-05.50.42:765][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.25-05.50.42:880][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2020.04.25-05.50.43:364][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.25-05.50.43:663][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.25-05.50.43:663][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.25-05.50.43:663][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.25-05.50.43:663][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.25-05.50.43:663][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.25-05.50.43:695][  0]LogNetVersion: 我的项目 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 541145255)
+[2020.04.25-05.50.45:763][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.155582 seconds
+[2020.04.25-05.50.45:776][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.25-05.50.45:776][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.25-05.50.45:776][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.25-05.50.46:564][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.25-05.50.46:570][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.25-05.50.46:680][  0]SourceControl: 源码管理已禁用
+[2020.04.25-05.50.46:680][  0]SourceControl: 源码管理已禁用
+[2020.04.25-05.50.46:683][  0]SourceControl: 源码管理已禁用
+[2020.04.25-05.50.46:686][  0]SourceControl: 源码管理已禁用
+[2020.04.25-05.50.46:689][  0]SourceControl: 源码管理已禁用
+[2020.04.25-05.50.46:872][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.25-05.50.46:894][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.25-05.50.46:894][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.25-05.50.47:053][  0]LogOcInput: OculusInput pre-init called
+[2020.04.25-05.50.47:086][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.25-05.50.47:086][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.25-05.50.47:215][  0]LogEngine: Initializing Engine...
+[2020.04.25-05.50.47:220][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.25-05.50.47:221][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.25-05.50.48:029][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.25-05.50.48:040][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.25-05.50.48:043][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.25-05.50.48:043][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.25-05.50.48:043][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.25-05.50.48:043][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.25-05.50.48:043][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.25-05.50.48:043][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.25-05.50.48:043][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.25-05.50.48:043][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.25-05.50.48:044][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.25-05.50.48:044][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.25-05.50.48:232][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.25-05.50.48:232][  0]LogAudioMixer: Display: Name: Acer XF270H B (2- NVIDIA High Definition Audio)
+[2020.04.25-05.50.48:232][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.25-05.50.48:232][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.25-05.50.48:232][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.25-05.50.48:232][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.25-05.50.48:232][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.25-05.50.48:232][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.25-05.50.48:232][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.25-05.50.48:356][  0]LogAudioMixer: Display: Using Audio Device Acer XF270H B (2- NVIDIA High Definition Audio)
+[2020.04.25-05.50.48:358][  0]LogInit: FAudioDevice initialized.
+[2020.04.25-05.50.48:359][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.25-05.50.48:407][  0]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc (磁盘空间不足。)
+[2020.04.25-05.50.48:407][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.25-05.50.48:417][  0]LogInit: Texture streaming: Enabled
+[2020.04.25-05.50.48:441][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.25-05.50.48:441][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.25-05.50.48:459][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.25-05.50.48:559][  0]LogInit: Transaction tracking system initialized
+[2020.04.25-05.50.48:588][  0]BlueprintLog: New page: 编辑器加载
+[2020.04.25-05.50.48:648][  0]LocalizationService: 本地化服务已禁用
+[2020.04.25-05.50.49:124][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/' took 0.02s
+[2020.04.25-05.50.49:124][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.25-05.50.49:124][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.25-05.50.50:491][  0]SourceControl: 源码管理已禁用
+[2020.04.25-05.50.50:491][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.25-05.50.50:492][  0]LightingResults: New page: 光照构建
+[2020.04.25-05.50.50:494][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-05.50.50:494][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-05.50.50:494][  0]MapCheck: New page: 地图检测
+[2020.04.25-05.50.50:494][  0]LightingResults: New page: 光照构建
+[2020.04.25-05.50.50:524][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.04.25-05.50.50:644][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.25-05.50.50:653][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.25-05.50.50:687][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.04.25-05.50.50:687][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.25-05.50.50:688][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.368毫秒。
+[2020.04.25-05.50.50:688][  0]LogFileHelpers: Loading map 'Template_Default' took 0.197
+[2020.04.25-05.50.50:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-05.50.50:892][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-05.50.50:902][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-05.50.50:911][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-05.50.50:922][  0]LogCollectionManager: Loaded 0 collections in 0.001411 seconds
+[2020.04.25-05.50.50:940][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Collections/' took 0.00s
+[2020.04.25-05.50.50:940][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Developers/hasee/Collections/' took 0.00s
+[2020.04.25-05.50.50:940][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Collections/' took 0.00s
+[2020.04.25-05.50.50:940][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3015 classes and 717 folders.
+[2020.04.25-05.50.50:944][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.25-05.50.51:066][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.25-05.50.51:072][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.04.25-05.50.51:132][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.25-05.50.51:132][  0]LogLoad: (Engine Initialization) Total time: 16.46 seconds
+[2020.04.25-05.50.51:132][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.25-05.50.51:205][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.25-05.50.51:207][  0]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.25-05.50.51:209][  0]LogSlate: Took 0.002279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.25-05.50.51:210][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.25-05.50.51:213][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.25-05.50.51:389][  2]LogRenderer: Reallocating scene render targets to support 760x336 Format 10 NumSamples 1 (Frame:1).
+[2020.04.25-05.50.51:626][  2]LogAssetRegistry: Asset discovery search completed in 8.7480 seconds
+[2020.04.25-05.50.51:631][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2020.04.25-05.50.54:175][148]LogSlate: Took 0.000402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.25-05.50.55:322][195]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.25-05.50.56:333][256]LogFileCache: Retrieving MD5 hashes for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/' took 5.18s
+[2020.04.25-05.56.48:402][ 33]LogFactory: FactoryCreateFile: StaticMesh with ReimportSpeedTreeFactory (0 0 I:/Unreal Project/Level-Design-Final/LDFinal/Content/Broadleaf_Hero_Field.st)
+[2020.04.25-05.57.09:442][ 33]LogSlate: Window 'SpeedTree选项' being destroyed
+[2020.04.25-05.57.09:590][ 33]LogTexture: Display: 正在编译纹理：Main_Bark_Color_Tex（AutoDXT、512X2048）
+[2020.04.25-05.57.10:239][ 33]LogTexture: Display: 正在编译纹理：Main_Bark_Normal_Tex（AutoDXT、512X2048）
+[2020.04.25-05.57.10:795][ 33]LogMaterial: Display: Missing cached shader map for material Main_Bark_Branch_Mat, compiling. 
+[2020.04.25-05.57.11:299][ 33]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.04.25-05.57.11:299][ 33]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.04.25-05.57.11:299][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.04.25-05.57.11:299][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.25-05.57.11:299][ 33]LogTexture: Display: 正在编译纹理：Shell_Bark_Color_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.14:200][ 33]LogTexture: Display: 正在编译纹理：Shell_Bark_Normal_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.16:667][ 33]LogMaterial: Display: Missing cached shader map for material Shell_Bark_Branch_Mat, compiling. 
+[2020.04.25-05.57.16:955][ 33]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.04.25-05.57.16:955][ 33]LogTexture: Display: 正在编译纹理：Broadleaf_Hero_Field_Color_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.18:853][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.04.25-05.57.18:853][ 33]LogTexture: Display: 正在编译纹理：Broadleaf_Hero_Field_Normal_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.20:649][ 33]LogTexture: Display: 正在编译纹理：Broadleaf_Hero_Field_Subsurface_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.21:384][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/temp.6E3BDB894A56E90ADA0E279B9B950EFB (磁盘空间不足。)
+[2020.04.25-05.57.21:384][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/temp.6E08315045AF5C20B7F2C29E2E5513D9 (磁盘空间不足。)
+[2020.04.25-05.57.21:384][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/temp.6E3BDB894A56E90ADA0E279B9B950EFB! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:384][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/temp.6E08315045AF5C20B7F2C29E2E5513D9! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:394][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/5/temp.0B4C82A14DA2F41EA2E4CA81F854BF25 (磁盘空间不足。)
+[2020.04.25-05.57.21:394][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/7/temp.68C67EBB45D94E4FE98C2A90C06FA48C (磁盘空间不足。)
+[2020.04.25-05.57.21:394][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/5/temp.0B4C82A14DA2F41EA2E4CA81F854BF25! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/7/temp.68C67EBB45D94E4FE98C2A90C06FA48C! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/temp.A5D9C0BB407BF8DD8B270D83F5EB5537 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/temp.A5D9C0BB407BF8DD8B270D83F5EB5537! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/temp.98F1CAEA4BFF95EC0DFD4090B3428E16 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/temp.98F1CAEA4BFF95EC0DFD4090B3428E16! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/temp.AECDF61D4BC22E66350D9C86FC12392C (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/temp.AECDF61D4BC22E66350D9C86FC12392C! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/temp.990699B148D450F977C4E087FA3316C9 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/5/temp.D388691F4F5EA212A33B0F87EA3230BB (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/temp.990699B148D450F977C4E087FA3316C9! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/5/temp.D388691F4F5EA212A33B0F87EA3230BB! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/7/temp.891E49D2425248288BCA39B0099F43DF (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/7/temp.891E49D2425248288BCA39B0099F43DF! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/temp.C13628FE4AABB120344A0095356EF377 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/temp.C13628FE4AABB120344A0095356EF377! Error: 0 (操作成功完成。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_28627C154A1EF790871C089A9B42A__451D42E4A2F8F56AC96CAA5E05B568AB36ECD936.
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_28627C154A1EF790871C089A9B42A__6E98124E69F33FBA0C3073BE57FF5CCE82C1408B.
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_28627C154A1EF790871C089A9B42A__3E636B9411FF4276A3C9AADDA1ACF9014632F3E7.
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_28627C154A1EF790871C089A9B42A__34D7AF5811424189113656A5E183B0973C3DA298.
+[2020.04.25-05.57.21:395][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/temp.E3E9483D46A8A89783BED584DB669FFF (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/temp.E3E9483D46A8A89783BED584DB669FFF! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_28627C154A1EF790871C089A9B42A__1B802F950A17D6FD1F13B7293CEB9393F06A8FFD.
+[2020.04.25-05.57.21:395][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_28627C154A1EF790871C089A9B42A__E0BF964A3A1D7C3B92B8124F7FAFB8284E7266AD.
+[2020.04.25-05.57.21:414][ 33]LogMaterial: Display: Missing cached shader map for material Broadleaf_Hero_Field_Branch_Mat, compiling. 
+[2020.04.25-05.57.21:464][ 33]LogTexture: Display: 正在编译纹理：Broadleaf_Hero_Field_Color_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.23:174][ 33]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 55
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:174][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:175][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:176][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:176][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C (磁盘空间不足。)
+[2020.04.25-05.57.23:176][ 33]LogShaderCompilers: Error: Could not write the shader compiler transfer filename to 'C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/04A585B564B236CC38A336E80B6F4EC9C' (Free Disk Space: 0.
+[2020.04.25-05.57.23:178][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/temp.5EFE259C4439CAC310C56582EBF188CC (磁盘空间不足。)
+[2020.04.25-05.57.23:178][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/8/temp.76CCA9F1437118E7975F8DA50A39A36D (磁盘空间不足。)
+[2020.04.25-05.57.23:178][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/temp.5EFE259C4439CAC310C56582EBF188CC! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.23:178][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/8/temp.76CCA9F1437118E7975F8DA50A39A36D! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.23:178][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/9/temp.A3F20A8A442B3C28E74D03AD04000FE3 (磁盘空间不足。)
+[2020.04.25-05.57.23:178][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/temp.609CC53B4526F8821BD0CB899502B05B (磁盘空间不足。)
+[2020.04.25-05.57.23:180][ 33]LogFileManager: Error: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/temp.5E4DA504     (���*    
+[2020.04.25-05.57.23:180][ 33]LogDerivedDataCache: Warning: 906781D3CDAD4BB8BF33D57! Error: 0 (操作成功完成。)
+[2020.04.25-05.57.23:180][ 33]LogDerivedDataCache: Warning: ileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/temp.88F68F19499FE809316641AA86E2829C! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/temp.5E4DA5044906781D3CDAD4BB8BF33D57! Error: 0 (操作成功完成。)
+[2020.04.25-05.57.23:409][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/temp.88F68F19499FE809316641AA86E2829C (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/temp.88F68F19499FE809316641AA86E2829C! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/8/temp.F0B8E5A343FC682B30D7CA9208CDDC50 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/8/temp.F0B8E5A343FC682B30D7CA9208CDDC50! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/temp.D9514E6948CEED3ECB10319EB02D1C70 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/temp.D9514E6948CEED3ECB10319EB02D1C70! Error: 0 (操作成功完成。)
+[2020.04.25-05.57.23:409][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/9/temp.62A3145F4A1A4F95B8D347AA52FB8B0F (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/temp.9BACB56E443E0DBDBC87C1BD36222466 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/temp.6D151AE14232CFF786DB5282F666014D (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/9/temp.62A3145F4A1A4F95B8D347AA52FB8B0F! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/temp.6D151AE14232CFF786DB5282F666014D! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/0/temp.9BACB56E443E0DBDBC87C1BD36222466! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BC6837B34D6EE90259ABAA858F4CB__E752D7CDDA0753FCB1A63D886334F51519B19826.
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BC6837B34D6EE90259ABAA858F4CB__618FEED5EB97772DDE26851574B3E8D7D9876738.
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BC6837B34D6EE90259ABAA858F4CB__AEDDE1809FF9571A2809B1497964C2B91F398CE7.
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BC6837B34D6EE90259ABAA858F4CB__6C3EECCF113141F640196B10B317FD55B6D0ABBC.
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BC6837B34D6EE90259ABAA858F4CB__755E083FA6B96373374BAAFA8C185D741904B230.
+[2020.04.25-05.57.23:409][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/temp.DF810A2B47C5AD94C8023B8085F7E41A (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/temp.DF810A2B47C5AD94C8023B8085F7E41A! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.23:409][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BC6837B34D6EE90259ABAA858F4CB__2F58F3A839D8BD555ADB690229334929296DF406.
+[2020.04.25-05.57.23:421][ 33]LogTexture: Display: 正在编译纹理：Broadleaf_Hero_Field_Color_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.25:129][ 33]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:130][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogFileManager: Error: Error flushing file: C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA (磁盘空间不足。)
+[2020.04.25-05.57.25:131][ 33]LogShaderCompilers: Error: Could not write the shader compiler transfer filename to 'C:/Users/hasee/AppData/Local/Temp/UnrealShaderWorkingDir/95A4EF5E412F5D76B8DFE9A0253C59AB/1FC6B75B94F3DB7E386A490AA9E79AAEA' (Free Disk Space: 0.
+[2020.04.25-05.57.25:131][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.04.25-05.57.25:158][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/temp.F543EDF5422CC45C7CC8E1B088835313 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/temp.F543EDF5422CC45C7CC8E1B088835313! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/temp.9C8AB6C644DEB63D004899818E92866C (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.5EF7E38D44965F47E75115AE282755B0 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/temp.9C8AB6C644DEB63D004899818E92866C! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.5EF7E38D44965F47E75115AE282755B0! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/temp.9B2039B747986A028C7D3CBE36DB4C89 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/temp.9B2039B747986A028C7D3CBE36DB4C89! Error: 0 (操作成功完成。)
+[2020.04.25-05.57.25:158][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/temp.27CCC7F24DA91567BCC1A38229D5502D (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/temp.27CCC7F24DA91567BCC1A38229D5502D! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/temp.242A8BC444F356611F5D498279B68CC4 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/temp.242A8BC444F356611F5D498279B68CC4! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.26E29DE84BA6C54EEA22F2B7A874DD78 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.26E29DE84BA6C54EEA22F2B7A874DD78! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_E6A2D975473B25DFA2C2C0BBE45B9__A9AB80CE920D3B0D51854FE9771D7506815E8D72.
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_E6A2D975473B25DFA2C2C0BBE45B9__1C0B460070D0D58DB582871922D5F8CBC2840049.
+[2020.04.25-05.57.25:158][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_E6A2D975473B25DFA2C2C0BBE45B9__59EF2FA90FA5E0FF6F35B59DB5B256FA42632EBC.
+[2020.04.25-05.57.25:159][ 33]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/temp.A806A32C42F90FF0CD5FAFB610E5E652 (磁盘空间不足。)
+[2020.04.25-05.57.25:159][ 33]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/temp.A806A32C42F90FF0CD5FAFB610E5E652! Error: 112 (磁盘空间不足。)
+[2020.04.25-05.57.25:159][ 33]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_E6A2D975473B25DFA2C2C0BBE45B9__8E661A68A5BA06664EA01F363A67952711A10D18.
+[2020.04.25-05.57.25:163][ 33]LogTexture: Display: 正在编译纹理：Broadleaf_Hero_Field_Normal_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.27:161][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.04.25-05.57.27:182][ 33]LogTexture: Display: 正在编译纹理：Broadleaf_Hero_Field_Normal_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.29:008][ 33]LogTexture: Display: 正在编译纹理：Broadleaf_Hero_Field_Subsurface_Tex（AutoDXT、2048X2048）
+[2020.04.25-05.57.29:736][ 33]LogMaterial: Display: Missing cached shader map for material Broadleaf_Hero_Field_Leaf_Mat, compiling. 
+[2020.04.25-05.57.30:831][ 33]LogStaticMesh: 正在构建静态网格体Broadleaf_Hero_Field……
+[2020.04.25-05.57.35:372][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2020.04.25-05.57.35:372][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2020.04.25-05.57.35:372][ 33]LogStaticMesh: Built static mesh [4.56s] /Game/Broadleaf_Hero_Field.Broadleaf_Hero_Field
+[2020.04.25-05.57.38:137][ 33]LogWindows: Windows GetLastError: 操作成功完成。 (0)
