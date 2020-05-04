@@ -2173,3 +2173,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.04-19.50.37:438][490]LogFileHelpers: Saving map 'Level21' took 0.641
 [2020.05.04-19.50.37:491][490]AssetCheck: New page: 资源保存：Level21
 [2020.05.04-19.50.37:491][490]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.04-19.52.28:377][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CrapeMyrtle_Fall_Low2)
+[2020.05.04-19.52.29:443][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CrapeMyrtle_Fall_Low2)
+[2020.05.04-19.52.47:786][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tire38)
