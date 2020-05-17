@@ -697,3 +697,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.17-16.36.09:259][ 97]LogFileHelpers: Saving map 'Level21' took 0.498
 [2020.05.17-16.36.09:276][ 97]AssetCheck: New page: 资源保存：Level21
 [2020.05.17-16.36.09:276][ 97]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.17-18.28.16:826][509]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d97deea4-c5b7-47a0-834f-a7adad1393d1}.
+[2020.05.17-18.28.16:826][509]LogTemp: Resetting audio stream to device id 
+[2020.05.17-18.28.17:251][509]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.17-18.28.17:251][509]LogAudioMixer: Display: Name: 扬声器 (Realtek High Definition Audio)
+[2020.05.17-18.28.17:251][509]LogAudioMixer: Display: Is Default: Yes
+[2020.05.17-18.28.17:251][509]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.17-18.28.17:251][509]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.17-18.28.17:251][509]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.17-18.28.17:251][509]LogAudioMixer: Display: Channel Order:
+[2020.05.17-18.28.17:251][509]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.17-18.28.17:251][509]LogAudioMixer: Display: 1: FrontRight
