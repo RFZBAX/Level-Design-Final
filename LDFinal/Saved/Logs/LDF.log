@@ -1,4 +1,4 @@
-﻿Log file open, 05/17/20 14:59:21
+﻿Log file open, 05/17/20 15:13:37
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,7 +9,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: LDF
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.187235
+LogStats: Stats thread started at 0.172483
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -163,533 +163,520 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
-[2020.05.17-18.59.22:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.05.17-18.59.22:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
-[2020.05.17-18.59.22:258][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
-[2020.05.17-18.59.22:264][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.05.17-18.59.22:264][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.05.17-18.59.22:265][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:265][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.05.17-18.59.22:266][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.05.17-18.59.22:267][  0]LogInit: Selected Device Profile: [Windows]
-[2020.05.17-18.59.22:267][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.05.17-18.59.22:270][  0]LogHAL: Display: Platform has ~ 16 GB [16985870336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.05.17-18.59.22:270][  0]LogInit: Going up to parent DeviceProfile []
-[2020.05.17-18.59.22:270][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:270][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.05.17-18.59.22:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.05.17-18.59.22:272][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
-[2020.05.17-18.59.22:273][  0]LogInit: Computer: DESKTOP-GF1EQQH
-[2020.05.17-18.59.22:273][  0]LogInit: User: hasee
-[2020.05.17-18.59.22:273][  0]LogInit: CPU Page size=4096, Cores=4
-[2020.05.17-18.59.22:273][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.05.17-18.59.22:273][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
-[2020.05.17-18.59.22:273][  0]LogMemory: Platform Memory Stats for Windows
-[2020.05.17-18.59.22:273][  0]LogMemory: Process Physical Memory: 105.89 MB used, 105.89 MB peak
-[2020.05.17-18.59.22:273][  0]LogMemory: Process Virtual Memory: 100.96 MB used, 100.96 MB peak
-[2020.05.17-18.59.22:273][  0]LogMemory: Physical Memory: 8364.30 MB used,  7834.68 MB free, 16198.99 MB total
-[2020.05.17-18.59.22:273][  0]LogMemory: Virtual Memory: 5140.34 MB used,  134212584.00 MB free, 134217728.00 MB total
-[2020.05.17-18.59.22:282][  0]LogWindows: WindowsPlatformFeatures enabled
-[2020.05.17-18.59.22:344][  0]LogInit: Using OS detected language (zh-CN).
-[2020.05.17-18.59.22:344][  0]LogInit: Using OS detected locale (zh-CN).
-[2020.05.17-18.59.22:346][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
-[2020.05.17-18.59.22:425][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
-[2020.05.17-18.59.22:425][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
-[2020.05.17-18.59.22:425][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
-[2020.05.17-18.59.22:425][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
-[2020.05.17-18.59.22:425][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
-[2020.05.17-18.59.22:425][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
-[2020.05.17-18.59.22:426][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
-[2020.05.17-18.59.22:426][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
-[2020.05.17-18.59.22:426][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
-[2020.05.17-18.59.22:426][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
-[2020.05.17-18.59.22:427][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
-[2020.05.17-18.59.22:464][  0]LogInit: Setting process to per monitor DPI aware
-[2020.05.17-18.59.22:532][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.05.17-18.59.22:532][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.05.17-18.59.22:947][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.05.17-18.59.22:947][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2020.05.17-18.59.22:947][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2020.05.17-18.59.22:947][  0]LogD3D11RHI: D3D11 adapters:
-[2020.05.17-18.59.23:066][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
-[2020.05.17-18.59.23:066][  0]LogD3D11RHI:       8144/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2020.05.17-18.59.23:178][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
-[2020.05.17-18.59.23:178][  0]LogD3D11RHI:       128/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2020.05.17-18.59.23:183][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.05.17-18.59.23:183][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.05.17-18.59.23:183][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.05.17-18.59.23:254][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.05.17-18.59.23:255][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
-[2020.05.17-18.59.23:255][  0]LogWindows: EnumDisplayDevices:
-[2020.05.17-18.59.23:255][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
-[2020.05.17-18.59.23:256][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2020.05.17-18.59.23:257][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2020.05.17-18.59.23:259][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:1)
-[2020.05.17-18.59.23:260][  0]LogWindows:    4. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
-[2020.05.17-18.59.23:262][  0]LogWindows:    5. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
-[2020.05.17-18.59.23:263][  0]LogWindows:    6. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
-[2020.05.17-18.59.23:264][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2020.05.17-18.59.23:264][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
-[2020.05.17-18.59.23:264][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
-[2020.05.17-18.59.23:264][  0]LogD3D11RHI:      Driver Date: 8-24-2019
-[2020.05.17-18.59.23:264][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
-[2020.05.17-18.59.23:342][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2020.05.17-18.59.23:342][  0]LogD3D11RHI: Async texture creation enabled
-[2020.05.17-18.59.23:357][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2020.05.17-18.59.24:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2020.05.17-18.59.24:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2020.05.17-18.59.24:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2020.05.17-18.59.24:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2020.05.17-18.59.24:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2020.05.17-18.59.24:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2020.05.17-18.59.24:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2020.05.17-18.59.24:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2020.05.17-18.59.24:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2020.05.17-18.59.24:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2020.05.17-18.59.24:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2020.05.17-18.59.24:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2020.05.17-18.59.24:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2020.05.17-18.59.24:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2020.05.17-18.59.24:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2020.05.17-18.59.24:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2020.05.17-18.59.24:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2020.05.17-18.59.24:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2020.05.17-18.59.24:422][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.05.17-18.59.24:431][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.05.17-18.59.24:496][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (I:/Unreal Project/Level-Design-Final/LDFinal/Intermediate/Shaders/WorkingDirectory/11140/).
-[2020.05.17-18.59.24:496][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'I:/Temp/UnrealShaderWorkingDir/AC1716DF47FC80E62BA87282DF5B43F4/'.
-[2020.05.17-18.59.24:498][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.05.17-18.59.24:499][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.05.17-18.59.24:499][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.05.17-18.59.25:577][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.05.17-18.59.25:650][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
-[2020.05.17-18.59.25:650][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
-[2020.05.17-18.59.25:650][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/Unreal Project/Level-Design-Final/LDFinal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.05.17-18.59.25:650][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.05.17-18.59.25:650][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/Unreal Project/Level-Design-Final/LDFinal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.05.17-18.59.25:650][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.05.17-18.59.25:663][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.05.17-18.59.25:664][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.05.17-18.59.25:664][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2020.05.17-18.59.25:667][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.05.17-18.59.25:667][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.05.17-18.59.25:667][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.05.17-18.59.25:704][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.05.17-18.59.25:707][  0]LogSlate: Using FreeType 2.10.0
-[2020.05.17-18.59.25:708][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.05.17-18.59.25:794][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
-[2020.05.17-18.59.26:232][  0]LogInit: Selected Device Profile: [Windows]
-[2020.05.17-18.59.26:467][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.05.17-18.59.26:467][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.05.17-18.59.26:467][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.05.17-18.59.26:467][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.05.17-18.59.26:467][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.05.17-18.59.26:486][  0]LogNetVersion: LDF 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2805682252)
-[2020.05.17-18.59.28:232][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.143393 seconds
-[2020.05.17-18.59.28:245][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
-[2020.05.17-18.59.28:245][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
-[2020.05.17-18.59.28:245][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.05.17-18.59.28:843][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.05.17-18.59.28:848][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.05.17-18.59.28:931][  0]SourceControl: 源码管理已禁用
-[2020.05.17-18.59.28:931][  0]SourceControl: 源码管理已禁用
-[2020.05.17-18.59.28:933][  0]SourceControl: 源码管理已禁用
-[2020.05.17-18.59.28:935][  0]SourceControl: 源码管理已禁用
-[2020.05.17-18.59.28:937][  0]SourceControl: 源码管理已禁用
-[2020.05.17-18.59.29:096][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.05.17-18.59.29:113][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2020.05.17-18.59.29:113][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2020.05.17-18.59.29:229][  0]LogOcInput: OculusInput pre-init called
-[2020.05.17-18.59.29:252][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2020.05.17-18.59.29:252][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2020.05.17-18.59.29:342][  0]LogEngine: Initializing Engine...
-[2020.05.17-18.59.29:346][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.05.17-18.59.29:347][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2020.05.17-18.59.29:788][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.05.17-18.59.29:798][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.05.17-18.59.29:821][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2020.05.17-18.59.29:821][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2020.05.17-18.59.29:821][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2020.05.17-18.59.29:821][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2020.05.17-18.59.29:821][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2020.05.17-18.59.29:821][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2020.05.17-18.59.29:821][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2020.05.17-18.59.29:821][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2020.05.17-18.59.29:822][  0]LogAudio: Display: Using built-in audio occlusion.
-[2020.05.17-18.59.29:822][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2020.05.17-18.59.29:984][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
-[2020.05.17-18.59.29:984][  0]LogAudioMixer: Display: Name: 扬声器 (Realtek High Definition Audio)
-[2020.05.17-18.59.29:984][  0]LogAudioMixer: Display: Is Default: Yes
-[2020.05.17-18.59.29:984][  0]LogAudioMixer: Display: Sample Rate: 44100
-[2020.05.17-18.59.29:984][  0]LogAudioMixer: Display: Channel Count Used: 2
-[2020.05.17-18.59.29:984][  0]LogAudioMixer: Display: Device Channel Count: 2
-[2020.05.17-18.59.29:984][  0]LogAudioMixer: Display: Channel Order:
-[2020.05.17-18.59.29:984][  0]LogAudioMixer: Display: 0: FrontLeft
-[2020.05.17-18.59.29:984][  0]LogAudioMixer: Display: 1: FrontRight
-[2020.05.17-18.59.30:099][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
-[2020.05.17-18.59.30:103][  0]LogInit: FAudioDevice initialized.
-[2020.05.17-18.59.30:103][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.05.17-18.59.30:304][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
-[2020.05.17-18.59.30:310][  0]LogInit: Texture streaming: Enabled
-[2020.05.17-18.59.30:334][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.05.17-18.59.30:334][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2020.05.17-18.59.30:343][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2020.05.17-18.59.30:443][  0]LogInit: Transaction tracking system initialized
-[2020.05.17-18.59.30:463][  0]BlueprintLog: New page: 编辑器加载
-[2020.05.17-18.59.30:525][  0]LocalizationService: 本地化服务已禁用
-[2020.05.17-18.59.30:993][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/' took 0.02s
-[2020.05.17-18.59.30:993][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.05.17-18.59.30:993][  0]LogCook: Display: Mobile HDR setting 1
-[2020.05.17-18.59.32:169][  0]SourceControl: 源码管理已禁用
-[2020.05.17-18.59.32:169][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.05.17-18.59.32:170][  0]LightingResults: New page: 光照构建
-[2020.05.17-18.59.32:171][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2020.05.17-18.59.32:171][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.05.17-18.59.32:171][  0]MapCheck: New page: 地图检测
-[2020.05.17-18.59.32:171][  0]LightingResults: New page: 光照构建
-[2020.05.17-18.59.32:197][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
-[2020.05.17-18.59.32:302][  0]LogAIModule: Creating AISystem for world Untitled_1
-[2020.05.17-18.59.32:307][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.05.17-18.59.32:339][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
-[2020.05.17-18.59.32:339][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.05.17-18.59.32:340][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.391毫秒。
-[2020.05.17-18.59.32:340][  0]LogFileHelpers: Loading map 'Template_Default' took 0.171
-[2020.05.17-18.59.32:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.05.17-18.59.32:572][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.05.17-18.59.32:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.05.17-18.59.32:592][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.05.17-18.59.32:602][  0]LogCollectionManager: Loaded 0 collections in 0.001382 seconds
-[2020.05.17-18.59.32:620][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Collections/' took 0.00s
-[2020.05.17-18.59.32:620][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Developers/hasee/Collections/' took 0.00s
-[2020.05.17-18.59.32:620][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Collections/' took 0.00s
-[2020.05.17-18.59.32:620][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3015 classes and 717 folders.
-[2020.05.17-18.59.32:624][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2020.05.17-18.59.32:744][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2020.05.17-18.59.32:750][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
-[2020.05.17-18.59.32:766][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
-[2020.05.17-18.59.32:904][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.05.17-18.59.32:907][  0]LogSlate: Took 0.001838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
-[2020.05.17-18.59.32:907][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.05.17-18.59.32:910][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.05.17-18.59.33:010][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
-[2020.05.17-18.59.33:211][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2020.05.17-18.59.33:211][  0]LogLoad: (Engine Initialization) Total time: 13.69 seconds
-[2020.05.17-18.59.33:211][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.05.17-18.59.33:282][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.05.17-18.59.33:295][  0]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.05.17-18.59.33:403][  2]LogAssetRegistry: Asset discovery search completed in 7.6090 seconds
-[2020.05.17-18.59.33:408][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000027 seconds (updated 0 objects)
-[2020.05.17-18.59.36:297][160]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.05.17-18.59.37:489][160]LogLinker: Warning: Asset 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2020.05.17-18.59.37:490][160]LogLinker: Warning: Asset 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2020.05.17-18.59.37:491][160]LogLinker: Warning: Asset 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2020.05.17-18.59.39:065][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:065][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (S_Drawer1Sequence)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:065][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (S_Drawer1Sequence)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:065][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (S_Drawer1Sequence)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:112][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogClass: Warning: Enum '/Game/CVInvInterface/Blueprints/E_TakableOrNot.E_TakableOrNot' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:113][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.39:114][160]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
-[2020.05.17-18.59.50:919][160]LogAIModule: Creating AISystem for world Level21
-[2020.05.17-18.59.50:958][160]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level21.Level21
-[2020.05.17-18.59.51:028][160]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
-[2020.05.17-18.59.51:033][160]Cmd: MAP LOAD FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.05.17-18.59.51:033][160]LightingResults: New page: 光照构建
-[2020.05.17-18.59.51:034][160]LoadErrors: New page: 正在加载地图：Level21.umap
-[2020.05.17-18.59.51:035][160]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
-[2020.05.17-18.59.51:035][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2020.05.17-18.59.51:036][160]MapCheck: New page: 地图检测
-[2020.05.17-18.59.51:036][160]LightingResults: New page: 光照构建
-[2020.05.17-18.59.51:073][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
-[2020.05.17-18.59.51:089][160]PIE: Warning: 正尝试在“/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
-[2020.05.17-18.59.51:100][160]PIE: Warning: 正尝试在“/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
-[2020.05.17-18.59.51:100][160]PIE: Warning: 正尝试在“/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
-[2020.05.17-18.59.51:105][160]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ZhangJiajieMountain/Template_Default) is flushing async loading
-[2020.05.17-18.59.51:105][160]LogStreaming: Display: Flushing async loaders.
-[2020.05.17-18.59.51:578][160]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.05.17-18.59.51:619][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
-[2020.05.17-18.59.51:672][160]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.05.17-18.59.51:672][160]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.331毫秒。
-[2020.05.17-18.59.51:672][160]LogFileHelpers: Loading map 'Level21' took 0.641
-[2020.05.17-19.00.24:936][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tire38)
-[2020.05.17-19.00.26:656][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (file)
-[2020.05.17-19.00.27:411][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (file)
-[2020.05.17-19.00.27:966][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (file)
-[2020.05.17-19.00.29:204][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tire38)
-[2020.05.17-19.00.34:335][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (file)
-[2020.05.17-19.00.34:911][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (file)
-[2020.05.17-19.00.35:896][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (file)
-[2020.05.17-19.01.15:625][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
-[2020.05.17-19.01.15:669][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2020.05.17-19.01.15:698][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
-[2020.05.17-19.01.16:128][677]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level2153AE06564150804883585DAB9BD5CCAA.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap'
-[2020.05.17-19.01.16:199][677]LogFileHelpers: Saving map 'Level21' took 0.530
-[2020.05.17-19.01.16:216][677]AssetCheck: New page: 资源保存：Level21
-[2020.05.17-19.01.16:216][677]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.17-19.13.38:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.17-19.13.38:231][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.17-19.13.38:232][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.17-19.13.38:233][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.17-19.13.38:233][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.17-19.13.38:233][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.17-19.13.38:233][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.17-19.13.38:233][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.17-19.13.38:239][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:239][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.17-19.13.38:239][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.17-19.13.38:239][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:239][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.17-19.13.38:239][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:239][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.17-19.13.38:240][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.17-19.13.38:241][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.17-19.13.38:241][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.17-19.13.38:241][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.17-19.13.38:245][  0]LogHAL: Display: Platform has ~ 16 GB [16985870336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.17-19.13.38:245][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.17-19.13.38:245][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.17-19.13.38:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.17-19.13.38:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.17-19.13.38:247][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.17-19.13.38:247][  0]LogInit: Computer: DESKTOP-GF1EQQH
+[2020.05.17-19.13.38:247][  0]LogInit: User: hasee
+[2020.05.17-19.13.38:247][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.17-19.13.38:247][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.17-19.13.38:247][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.05.17-19.13.38:247][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.17-19.13.38:247][  0]LogMemory: Process Physical Memory: 105.80 MB used, 105.80 MB peak
+[2020.05.17-19.13.38:247][  0]LogMemory: Process Virtual Memory: 100.91 MB used, 100.91 MB peak
+[2020.05.17-19.13.38:247][  0]LogMemory: Physical Memory: 7664.33 MB used,  8534.66 MB free, 16198.99 MB total
+[2020.05.17-19.13.38:247][  0]LogMemory: Virtual Memory: 5140.34 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.05.17-19.13.38:256][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.17-19.13.38:320][  0]LogInit: Using OS detected language (zh-CN).
+[2020.05.17-19.13.38:320][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.05.17-19.13.38:322][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2020.05.17-19.13.38:398][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.05.17-19.13.38:398][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.05.17-19.13.38:399][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.05.17-19.13.38:399][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.05.17-19.13.38:399][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.05.17-19.13.38:399][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.05.17-19.13.38:399][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.05.17-19.13.38:399][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.05.17-19.13.38:399][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.05.17-19.13.38:400][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.05.17-19.13.38:400][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.05.17-19.13.38:434][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.17-19.13.38:502][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.17-19.13.38:502][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.17-19.13.38:897][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.17-19.13.38:897][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.17-19.13.38:897][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.17-19.13.38:897][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.17-19.13.39:026][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2020.05.17-19.13.39:026][  0]LogD3D11RHI:       8144/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.17-19.13.39:147][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.05.17-19.13.39:147][  0]LogD3D11RHI:       128/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.17-19.13.39:152][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.17-19.13.39:152][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.17-19.13.39:152][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.17-19.13.39:220][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.17-19.13.39:220][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.17-19.13.39:220][  0]LogWindows: EnumDisplayDevices:
+[2020.05.17-19.13.39:221][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.05.17-19.13.39:222][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.05.17-19.13.39:223][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.05.17-19.13.39:225][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:1)
+[2020.05.17-19.13.39:226][  0]LogWindows:    4. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2020.05.17-19.13.39:227][  0]LogWindows:    5. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2020.05.17-19.13.39:229][  0]LogWindows:    6. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2020.05.17-19.13.39:230][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.17-19.13.39:231][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2020.05.17-19.13.39:231][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2020.05.17-19.13.39:231][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2020.05.17-19.13.39:231][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2020.05.17-19.13.39:307][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.17-19.13.39:307][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.17-19.13.39:319][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.17-19.13.40:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.17-19.13.40:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.17-19.13.40:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.17-19.13.40:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.17-19.13.40:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.17-19.13.40:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.17-19.13.40:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.17-19.13.40:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.17-19.13.40:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.17-19.13.40:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.17-19.13.40:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.17-19.13.40:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.17-19.13.40:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.17-19.13.40:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.17-19.13.40:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.17-19.13.40:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.17-19.13.40:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.17-19.13.40:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.17-19.13.40:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.17-19.13.40:340][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.17-19.13.40:351][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.17-19.13.40:406][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (I:/Unreal Project/Level-Design-Final/LDFinal/Intermediate/Shaders/WorkingDirectory/3992/).
+[2020.05.17-19.13.40:407][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'I:/Temp/UnrealShaderWorkingDir/C29957314FF0D21E2B9A36BD9729B34B/'.
+[2020.05.17-19.13.40:407][  0]LogXGEController: Cleaning working directory: I:/Temp/UnrealXGEWorkingDir/
+[2020.05.17-19.13.40:409][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.17-19.13.40:409][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.17-19.13.40:409][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.17-19.13.41:343][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.17-19.13.41:410][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.17-19.13.41:411][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.17-19.13.41:411][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/Unreal Project/Level-Design-Final/LDFinal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.17-19.13.41:411][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.17-19.13.41:411][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/Unreal Project/Level-Design-Final/LDFinal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.17-19.13.41:411][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.17-19.13.41:423][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.17-19.13.41:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.17-19.13.41:423][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.17-19.13.41:427][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.17-19.13.41:427][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.17-19.13.41:427][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.17-19.13.41:464][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.17-19.13.41:468][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.17-19.13.41:469][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.17-19.13.41:553][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2020.05.17-19.13.41:939][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.17-19.13.42:150][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.17-19.13.42:150][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.17-19.13.42:150][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.17-19.13.42:150][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.17-19.13.42:150][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.17-19.13.42:172][  0]LogNetVersion: LDF 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2805682252)
+[2020.05.17-19.13.43:821][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.143230 seconds
+[2020.05.17-19.13.43:829][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.17-19.13.43:829][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.17-19.13.43:829][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.17-19.13.44:416][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.17-19.13.44:420][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.17-19.13.44:504][  0]SourceControl: 源码管理已禁用
+[2020.05.17-19.13.44:504][  0]SourceControl: 源码管理已禁用
+[2020.05.17-19.13.44:507][  0]SourceControl: 源码管理已禁用
+[2020.05.17-19.13.44:509][  0]SourceControl: 源码管理已禁用
+[2020.05.17-19.13.44:511][  0]SourceControl: 源码管理已禁用
+[2020.05.17-19.13.44:678][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.17-19.13.44:695][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.17-19.13.44:695][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.17-19.13.44:811][  0]LogOcInput: OculusInput pre-init called
+[2020.05.17-19.13.44:831][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.17-19.13.44:831][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.17-19.13.44:927][  0]LogEngine: Initializing Engine...
+[2020.05.17-19.13.44:931][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.17-19.13.44:933][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.05.17-19.13.45:349][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.17-19.13.45:360][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.17-19.13.45:388][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.17-19.13.45:388][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.17-19.13.45:388][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.17-19.13.45:388][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.17-19.13.45:388][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.17-19.13.45:388][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.17-19.13.45:388][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.17-19.13.45:388][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.17-19.13.45:388][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.17-19.13.45:388][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.17-19.13.45:548][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.17-19.13.45:548][  0]LogAudioMixer: Display: Name: 扬声器 (Realtek High Definition Audio)
+[2020.05.17-19.13.45:548][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.17-19.13.45:548][  0]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.17-19.13.45:548][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.17-19.13.45:548][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.17-19.13.45:548][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.17-19.13.45:548][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.17-19.13.45:548][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.17-19.13.45:666][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.05.17-19.13.45:672][  0]LogInit: FAudioDevice initialized.
+[2020.05.17-19.13.45:672][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.17-19.13.45:879][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.17-19.13.45:886][  0]LogInit: Texture streaming: Enabled
+[2020.05.17-19.13.45:910][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.17-19.13.45:910][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={5AF0245A-47B3-3077-8825-02B2D40CDC8A}
+[2020.05.17-19.13.45:910][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.17-19.13.45:918][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.17-19.13.46:006][  0]LogInit: Transaction tracking system initialized
+[2020.05.17-19.13.46:022][  0]BlueprintLog: New page: 编辑器加载
+[2020.05.17-19.13.46:078][  0]LocalizationService: 本地化服务已禁用
+[2020.05.17-19.13.46:454][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/' took 0.02s
+[2020.05.17-19.13.46:454][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.17-19.13.46:454][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.17-19.13.47:554][  0]SourceControl: 源码管理已禁用
+[2020.05.17-19.13.47:554][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.17-19.13.47:555][  0]LightingResults: New page: 光照构建
+[2020.05.17-19.13.47:556][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-19.13.47:556][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.13.47:556][  0]MapCheck: New page: 地图检测
+[2020.05.17-19.13.47:556][  0]LightingResults: New page: 光照构建
+[2020.05.17-19.13.47:587][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.05.17-19.13.47:689][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.05.17-19.13.47:695][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.17-19.13.47:726][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.17-19.13.47:726][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.17-19.13.47:726][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.277毫秒。
+[2020.05.17-19.13.47:726][  0]LogFileHelpers: Loading map 'Template_Default' took 0.172
+[2020.05.17-19.13.47:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.13.47:972][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.13.47:983][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.13.47:996][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.13.48:008][  0]LogCollectionManager: Loaded 0 collections in 0.001599 seconds
+[2020.05.17-19.13.48:025][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Collections/' took 0.00s
+[2020.05.17-19.13.48:025][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Developers/hasee/Collections/' took 0.00s
+[2020.05.17-19.13.48:025][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Collections/' took 0.00s
+[2020.05.17-19.13.48:025][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3015 classes and 717 folders.
+[2020.05.17-19.13.48:028][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.17-19.13.48:135][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.17-19.13.48:139][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.17-19.13.48:151][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.17-19.13.48:275][  0]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.17-19.13.48:278][  0]LogSlate: Took 0.002138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.17-19.13.48:279][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.17-19.13.48:282][  0]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.17-19.13.48:381][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.05.17-19.13.48:491][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.17-19.13.48:492][  0]LogLoad: (Engine Initialization) Total time: 13.00 seconds
+[2020.05.17-19.13.48:492][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.17-19.13.48:562][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.17-19.13.48:576][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.17-19.13.48:689][  2]LogAssetRegistry: Asset discovery search completed in 7.1381 seconds
+[2020.05.17-19.13.48:695][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.05.17-19.28.47:106][194]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.17-19.28.48:194][194]LogLinker: Warning: Asset 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.17-19.28.48:195][194]LogLinker: Warning: Asset 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.17-19.28.48:196][194]LogLinker: Warning: Asset 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.17-19.28.49:685][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:685][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (S_Drawer1Sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:685][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (S_Drawer1Sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:685][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (S_Drawer1Sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:755][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:756][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:756][194]LogClass: Warning: Enum '/Game/CVInvInterface/Blueprints/E_TakableOrNot.E_TakableOrNot' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.05.17-19.28.49:756][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:756][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:756][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:757][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:757][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:757][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:757][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:757][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:757][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:757][194]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:757][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.49:757][194]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.17-19.28.53:030][194]LogAIModule: Creating AISystem for world Level21
+[2020.05.17-19.28.53:063][194]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level21.Level21
+[2020.05.17-19.28.53:132][194]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.05.17-19.28.53:136][194]Cmd: MAP LOAD FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.17-19.28.53:136][194]LightingResults: New page: 光照构建
+[2020.05.17-19.28.53:137][194]LoadErrors: New page: 正在加载地图：Level21.umap
+[2020.05.17-19.28.53:137][194]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-19.28.53:138][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.28.53:138][194]MapCheck: New page: 地图检测
+[2020.05.17-19.28.53:138][194]LightingResults: New page: 光照构建
+[2020.05.17-19.28.53:171][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.05.17-19.28.53:179][194]PIE: Warning: 正尝试在“/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.17-19.28.53:187][194]PIE: Warning: 正尝试在“/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.17-19.28.53:188][194]PIE: Warning: 正尝试在“/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.17-19.28.53:191][194]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ZhangJiajieMountain/Template_Default) is flushing async loading
+[2020.05.17-19.28.53:191][194]LogStreaming: Display: Flushing async loaders.
+[2020.05.17-19.28.53:455][194]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.17-19.28.53:497][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.05.17-19.28.53:545][194]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.17-19.28.53:545][194]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.323毫秒。
+[2020.05.17-19.28.53:545][194]LogFileHelpers: Loading map 'Level21' took 0.411
