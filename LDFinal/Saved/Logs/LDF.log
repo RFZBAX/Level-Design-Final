@@ -842,3 +842,570 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.17-18.51.47:296][249]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Level216CCB15454775FA0F676DEDA0205F95B2.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/Level21.umap'
 [2020.05.17-18.51.47:408][249]AssetCheck: New page: 资源保存：Level21
 [2020.05.17-18.51.47:408][249]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.17-19.11.21:304][774]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\testliangongtai.fbx)
+[2020.05.17-19.11.21:553][774]LogFbx: Loading FBX Scene from F:\testliangongtai.fbx
+[2020.05.17-19.11.21:664][774]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.17-19.11.26:883][774]LogSlate: Window 'FBX导入选项' being destroyed
+[2020.05.17-19.11.27:669][774]LogLinker: 未能加载“{FileName}”：无法找到文件。
+[2020.05.17-19.11.27:669][774]LogLinker: 未能加载“{FileName}”：无法找到文件。
+[2020.05.17-19.11.27:731][774]Error: DDS uses an unsupported format.
+[2020.05.17-19.11.27:731][774]Error: Texture import failed
+[2020.05.17-19.11.27:758][774]LogMaterial: Display: Missing cached shader map for material biwutailj01, compiling. 
+[2020.05.17-19.11.28:000][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.17-19.11.28:000][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.17-19.11.28:000][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.17-19.11.28:000][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.17-19.11.28:000][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.17-19.11.28:000][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.17-19.11.28:000][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.17-19.11.28:000][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.17-19.11.28:113][774]LogStaticMesh: 正在构建静态网格体testliangongtai_Object01……
+[2020.05.17-19.11.28:850][774]LogStaticMesh: Built static mesh [0.73s] /Game/liangoliangongtai/testliangongtai_Object01.testliangongtai_Object01
+[2020.05.17-19.11.29:235][774]LogLinker: 未能加载“{FileName}”：无法找到文件。
+[2020.05.17-19.11.29:236][774]LogLinker: 未能加载“{FileName}”：无法找到文件。
+[2020.05.17-19.11.29:237][774]Error: DDS uses an unsupported format.
+[2020.05.17-19.11.29:238][774]Error: Texture import failed
+[2020.05.17-19.11.29:261][774]LogMaterial: Display: Missing cached shader map for material ljthing007, compiling. 
+[2020.05.17-19.11.29:306][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.05.17-19.11.29:306][774]LogFbx: Display: Triangulating static mesh Object282352
+[2020.05.17-19.11.29:406][774]LogStaticMesh: 正在构建静态网格体testliangongtai_Object282352……
+[2020.05.17-19.11.29:443][774]LogStaticMesh: Built static mesh [0.04s] /Game/liangoliangongtai/testliangongtai_Object282352.testliangongtai_Object282352
+[2020.05.17-19.11.29:539][774]Error: DDS uses an unsupported format.
+[2020.05.17-19.11.29:539][774]Error: Texture import failed
+[2020.05.17-19.11.29:557][774]LogMaterial: Display: Missing cached shader map for material wall001_lj, compiling. 
+[2020.05.17-19.11.29:606][774]LogFbx: Display: Triangulating static mesh Object30
+[2020.05.17-19.11.29:705][774]LogStaticMesh: 正在构建静态网格体testliangongtai_Object30……
+[2020.05.17-19.11.29:715][774]LogStaticMesh: Built static mesh [0.01s] /Game/liangoliangongtai/testliangongtai_Object30.testliangongtai_Object30
+[2020.05.17-19.11.29:762][774]LogLinker: 未能加载“{FileName}”：无法找到文件。
+[2020.05.17-19.11.29:763][774]LogLinker: 未能加载“{FileName}”：无法找到文件。
+[2020.05.17-19.11.29:765][774]Error: DDS uses an unsupported format.
+[2020.05.17-19.11.29:765][774]Error: Texture import failed
+[2020.05.17-19.11.29:781][774]LogMaterial: Display: Missing cached shader map for material sufangzilyh001, compiling. 
+[2020.05.17-19.11.29:818][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2020.05.17-19.11.29:831][774]LogFbx: Display: Triangulating static mesh Object34
+[2020.05.17-19.11.30:077][774]LogStaticMesh: 正在构建静态网格体testliangongtai_Object34……
+[2020.05.17-19.11.30:230][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2020.05.17-19.11.30:230][774]LogStaticMesh: Built static mesh [0.15s] /Game/liangoliangongtai/testliangongtai_Object34.testliangongtai_Object34
+[2020.05.17-19.11.30:281][774]Error: DDS uses an unsupported format.
+[2020.05.17-19.11.30:281][774]Error: Texture import failed
+[2020.05.17-19.11.30:294][774]LogMaterial: Display: Missing cached shader map for material xsclyh002, compiling. 
+[2020.05.17-19.11.30:341][774]LogFbx: Display: Triangulating static mesh Object27
+[2020.05.17-19.11.30:448][774]LogStaticMesh: 正在构建静态网格体testliangongtai_Object27……
+[2020.05.17-19.11.30:518][774]LogStaticMesh: Built static mesh [0.07s] /Game/liangoliangongtai/testliangongtai_Object27.testliangongtai_Object27
+[2020.05.17-19.11.30:552][774]Error: DDS uses an unsupported format.
+[2020.05.17-19.11.30:552][774]Error: Texture import failed
+[2020.05.17-19.11.30:567][774]LogMaterial: Display: Missing cached shader map for material langan001_lj, compiling. 
+[2020.05.17-19.11.30:616][774]LogFbx: Display: Triangulating static mesh Object282246
+[2020.05.17-19.11.31:093][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 64
+[2020.05.17-19.11.31:093][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 55
+[2020.05.17-19.11.31:093][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 48
+[2020.05.17-19.11.31:094][774]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2020.05.17-19.11.31:108][774]LogStaticMesh: 正在构建静态网格体testliangongtai_Object282246……
+[2020.05.17-19.11.31:495][774]LogStaticMesh: Built static mesh [0.39s] /Game/liangoliangongtai/testliangongtai_Object282246.testliangongtai_Object282246
+[2020.05.17-19.11.31:498][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2020.05.17-19.11.31:771][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2020.05.17-19.11.35:119][882]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.05.17-19.11.36:344][926]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.05.17-19.11.36:925][945]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.05.17-19.11.37:322][963]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.05.17-19.11.39:331][ 61]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.05.17-19.11.39:628][ 70]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.05.17-19.11.39:628][ 70]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.05.17-19.11.41:208][135]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.05.17-19.11.41:340][141]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.05.17-19.11.41:377][143]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.05.17-19.11.41:396][144]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.05.17-19.11.41:847][164]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.05.17-19.11.42:264][182]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.05.17-19.11.42:483][194]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.05.17-19.11.52:541][704]LogActorFactory: Actor Factory created testliangongtai_Object27
+[2020.05.17-19.11.53:795][753]LogActorFactory: Actor Factory created testliangongtai_Object27
+[2020.05.17-19.11.59:397][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.05.17-19.12.00:138][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Level21_Auto1E1E9A52942D754BD3383F0B43829042A.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/Level21_Auto1.umap'
+[2020.05.17-19.12.00:142][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level21' took 0.846
+[2020.05.17-19.12.00:142][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.846
+[2020.05.17-19.12.00:143][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/langan001_lj] ([1] browsable assets)...
+[2020.05.17-19.12.00:306][ 53]OBJ SavePackage:     Rendered thumbnail for [Material /Game/liangoliangongtai/langan001_lj.langan001_lj]
+[2020.05.17-19.12.00:306][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/langan001_lj]
+[2020.05.17-19.12.00:374][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/langan001_lj_Auto141F9F54146829597B38FCB9EE6F86F3D.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/langan001_lj_Auto1.uasset'
+[2020.05.17-19.12.00:376][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/testliangongtai_Object01] ([1] browsable assets)...
+[2020.05.17-19.12.00:389][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/liangoliangongtai/testliangongtai_Object01.testliangongtai_Object01]
+[2020.05.17-19.12.00:389][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/testliangongtai_Object01]
+[2020.05.17-19.12.00:542][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object01_Auto1B6B5D75C4F535E77F612DD98A0CE6A68.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/testliangongtai_Object01_Auto1.uasset'
+[2020.05.17-19.12.00:544][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/biwutailj01] ([1] browsable assets)...
+[2020.05.17-19.12.00:560][ 53]OBJ SavePackage:     Rendered thumbnail for [Material /Game/liangoliangongtai/biwutailj01.biwutailj01]
+[2020.05.17-19.12.00:561][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/biwutailj01]
+[2020.05.17-19.12.00:579][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/biwutailj01_Auto17560BDD84B0A80A6500063A1FA5CACE2.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/biwutailj01_Auto1.uasset'
+[2020.05.17-19.12.00:581][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/testliangongtai_Object282246] ([1] browsable assets)...
+[2020.05.17-19.12.00:595][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/liangoliangongtai/testliangongtai_Object282246.testliangongtai_Object282246]
+[2020.05.17-19.12.00:595][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/testliangongtai_Object282246]
+[2020.05.17-19.12.00:651][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object282246_Aut63E272344E3A513F99CF44BAEC2E79EC.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/testliangongtai_Object282246_Auto1.uasset'
+[2020.05.17-19.12.00:654][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/testliangongtai_Object282352] ([1] browsable assets)...
+[2020.05.17-19.12.00:668][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/liangoliangongtai/testliangongtai_Object282352.testliangongtai_Object282352]
+[2020.05.17-19.12.00:668][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/testliangongtai_Object282352]
+[2020.05.17-19.12.00:693][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object282352_AutEA085301484E8E3F2AC0FBB063CBAD3F.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/testliangongtai_Object282352_Auto1.uasset'
+[2020.05.17-19.12.00:695][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/ljthing007] ([1] browsable assets)...
+[2020.05.17-19.12.00:710][ 53]OBJ SavePackage:     Rendered thumbnail for [Material /Game/liangoliangongtai/ljthing007.ljthing007]
+[2020.05.17-19.12.00:710][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/ljthing007]
+[2020.05.17-19.12.00:739][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/ljthing007_Auto12E67A0F740A65703E29226B615FEE1E9.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/ljthing007_Auto1.uasset'
+[2020.05.17-19.12.00:741][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/xsclyh002] ([1] browsable assets)...
+[2020.05.17-19.12.00:755][ 53]OBJ SavePackage:     Rendered thumbnail for [Material /Game/liangoliangongtai/xsclyh002.xsclyh002]
+[2020.05.17-19.12.00:755][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/xsclyh002]
+[2020.05.17-19.12.00:771][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/xsclyh002_Auto1FDA9475143BD96CA73AC40AABE755D02.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/xsclyh002_Auto1.uasset'
+[2020.05.17-19.12.00:773][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/testliangongtai_Object30] ([1] browsable assets)...
+[2020.05.17-19.12.00:782][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/liangoliangongtai/testliangongtai_Object30.testliangongtai_Object30]
+[2020.05.17-19.12.00:783][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/testliangongtai_Object30]
+[2020.05.17-19.12.00:802][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object30_Auto1CA07C6454EB67F7146082B8395FD3396.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/testliangongtai_Object30_Auto1.uasset'
+[2020.05.17-19.12.00:804][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/wall001_lj] ([1] browsable assets)...
+[2020.05.17-19.12.00:815][ 53]OBJ SavePackage:     Rendered thumbnail for [Material /Game/liangoliangongtai/wall001_lj.wall001_lj]
+[2020.05.17-19.12.00:815][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/wall001_lj]
+[2020.05.17-19.12.00:833][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/wall001_lj_Auto17E32B7524F9B7E4F1F615C8D725F47FA.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/wall001_lj_Auto1.uasset'
+[2020.05.17-19.12.00:835][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/testliangongtai_Object27] ([1] browsable assets)...
+[2020.05.17-19.12.00:846][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/liangoliangongtai/testliangongtai_Object27.testliangongtai_Object27]
+[2020.05.17-19.12.00:846][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/testliangongtai_Object27]
+[2020.05.17-19.12.00:869][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object27_Auto1A634D8FD4E135DAB9E944BAC28003FD5.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/testliangongtai_Object27_Auto1.uasset'
+[2020.05.17-19.12.00:871][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/testliangongtai_Object34] ([1] browsable assets)...
+[2020.05.17-19.12.00:883][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/liangoliangongtai/testliangongtai_Object34.testliangongtai_Object34]
+[2020.05.17-19.12.00:883][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/testliangongtai_Object34]
+[2020.05.17-19.12.00:912][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object34_Auto1BF74966D4E43A605A529AF8D932E2E58.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/testliangongtai_Object34_Auto1.uasset'
+[2020.05.17-19.12.00:913][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/liangoliangongtai/sufangzilyh001] ([1] browsable assets)...
+[2020.05.17-19.12.00:925][ 53]OBJ SavePackage:     Rendered thumbnail for [Material /Game/liangoliangongtai/sufangzilyh001.sufangzilyh001]
+[2020.05.17-19.12.00:925][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/liangoliangongtai/sufangzilyh001]
+[2020.05.17-19.12.00:952][ 53]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/sufangzilyh001_Auto136C28FB04C12E4BE0EB4B9A958BE2D44.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Autosaves/Game/liangoliangongtai/sufangzilyh001_Auto1.uasset'
+[2020.05.17-19.12.00:954][ 53]LogFileHelpers: Auto-saving content packages took 0.812
+[2020.05.17-19.12.03:543][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RuinsBaseC4)
+[2020.05.17-19.12.13:038][572]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lucy.yang\Downloads\0ipnxt88fzriqkwv_cgmol_com\新建文件夹\biwutai_lj01.dds)
+[2020.05.17-19.12.13:039][572]Error: DDS uses an unsupported format.
+[2020.05.17-19.12.13:039][572]Error: Texture import failed
+[2020.05.17-19.12.16:129][572]LogSlate: Window '消息' being destroyed
+[2020.05.17-19.12.16:151][572]LogAssetTools: Warning: 未能导入 'C:\Users\lucy.yang\Downloads\0ipnxt88fzriqkwv_cgmol_com\新建文件夹\biwutai_lj01.dds’。未能创建资源 '/Game/liangoliangongtai/biwutai_lj01’。
+请查看输出日志中的详情。
+[2020.05.17-19.13.41:047][918]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lucy.yang\Downloads\aoyev-jocl9\aoyev-jocl9.png)
+[2020.05.17-19.13.41:165][918]LogTexture: Display: 正在编译纹理：aoyev-jocl9（AutoDXT、512X512）
+[2020.05.17-19.13.44:043][945]LogMaterial: Display: Missing cached shader map for material aoyev-jocl9_Mat, compiling. 
+[2020.05.17-19.13.44:064][945]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.17-19.13.44:064][945]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.17-19.13.44:064][945]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.17-19.13.44:064][945]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.17-19.13.44:064][945]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.17-19.13.44:064][945]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.17-19.13.44:064][945]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.17-19.13.44:064][945]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.17-19.13.50:266][256]Cmd: TRANSACTION UNDO
+[2020.05.17-19.13.50:266][256]LogEditorTransaction: Undo 创建Actor
+[2020.05.17-19.15.06:477][576]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lucy.yang\Downloads\a1wu6-paoum\a1wu6-paoum.png)
+[2020.05.17-19.15.06:495][576]LogTexture: Display: 正在编译纹理：a1wu6-paoum（AutoDXT、512X512）
+[2020.05.17-19.15.45:050][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lucy.yang\Downloads\aibai-xvzep\aibai-xvzep.png)
+[2020.05.17-19.15.45:100][725]LogTexture: Display: 正在编译纹理：aibai-xvzep（AutoDXT、512X2048）
+[2020.05.17-19.15.50:211][761]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lucy.yang\Downloads\ah0n9-qz7ut\ah0n9-qz7ut.png)
+[2020.05.17-19.15.50:218][761]LogTexture: Display: 正在编译纹理：ah0n9-qz7ut（AutoDXT、256X256）
+[2020.05.17-19.15.55:726][801]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lucy.yang\Downloads\a9tsz-51i26\a9tsz-51i26.png)
+[2020.05.17-19.15.55:765][801]LogTexture: Display: 正在编译纹理：a9tsz-51i26（AutoDXT、256X2048）
+[2020.05.17-19.16.22:884][898]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lucy.yang\Downloads\as3wr-mje8w\as3wr-mje8w.png)
+[2020.05.17-19.16.22:891][898]LogTexture: Display: 正在编译纹理：as3wr-mje8w（AutoDXT、256X256）
+[2020.05.17-19.16.35:507][ 88]LogMaterial: Display: Missing cached shader map for material a1wu6-paoum_Mat, compiling. 
+[2020.05.17-19.16.35:528][ 88]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.17-19.16.35:528][ 88]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.17-19.16.35:528][ 88]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.17-19.16.35:528][ 88]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.17-19.16.35:528][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.17-19.16.35:528][ 88]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.17-19.16.35:528][ 88]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.17-19.16.35:528][ 88]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.17-19.16.49:111][826]LogMaterial: Display: Missing cached shader map for material ah0n9-qz7ut_Mat, compiling. 
+[2020.05.17-19.16.49:135][826]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.17-19.16.49:135][826]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.17-19.16.49:135][826]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.17-19.16.49:135][826]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.17-19.16.49:135][826]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.17-19.16.49:135][826]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.17-19.16.49:135][826]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.17-19.16.49:135][826]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.17-19.17.00:408][414]LogMaterial: Display: Missing cached shader map for material a9tsz-51i26_Mat, compiling. 
+[2020.05.17-19.17.00:449][414]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.17-19.17.00:449][414]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.17-19.17.00:449][414]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.17-19.17.00:449][414]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.17-19.17.00:449][414]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.17-19.17.00:449][414]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.17-19.17.00:449][414]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.17-19.17.00:449][414]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.17-19.17.17:798][304]LogActorFactory: Actor Factory created testliangongtai_Object01
+[2020.05.17-19.17.19:009][348]LogActorFactory: Actor Factory created testliangongtai_Object01
+[2020.05.17-19.17.29:689][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (testliangongtai_Object27)
+[2020.05.17-19.17.31:829][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (testliangongtai_Object01)
+[2020.05.17-19.18.08:282][112]LogActorFactory: Actor Factory created testliangongtai_Object282246
+[2020.05.17-19.18.09:087][137]LogActorFactory: Actor Factory created testliangongtai_Object282246
+[2020.05.17-19.19.01:017][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RuinsBaseC4)
+[2020.05.17-19.19.12:138][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (testliangongtai_Object282246)
+[2020.05.17-19.19.24:924][212]LogActorFactory: Actor Factory created testliangongtai_Object34
+[2020.05.17-19.19.25:578][236]LogActorFactory: Actor Factory created testliangongtai_Object34
+[2020.05.17-19.20.05:733][131]LogMaterial: Display: Missing cached shader map for material aibai-xvzep_Mat, compiling. 
+[2020.05.17-19.20.05:782][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.17-19.20.05:782][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.17-19.20.05:782][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.17-19.20.05:782][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.17-19.20.05:782][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.17-19.20.05:782][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.17-19.20.05:782][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.17-19.20.05:782][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.17-19.20.33:759][542]LogActorFactory: Actor Factory created testliangongtai_Object282352
+[2020.05.17-19.20.34:374][562]LogActorFactory: Actor Factory created testliangongtai_Object282352
+[2020.05.17-19.22.06:566][630]LogMaterial: Display: Missing cached shader map for material as3wr-mje8w_Mat, compiling. 
+[2020.05.17-19.22.06:597][630]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.05.17-19.22.06:597][630]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.05.17-19.22.06:597][630]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.05.17-19.22.06:597][630]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.05.17-19.22.06:597][630]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.17-19.22.06:597][630]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.17-19.22.06:597][630]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.05.17-19.22.06:597][630]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.05.17-19.22.22:984][526]Cmd: DELETE
+[2020.05.17-19.22.22:985][526]Cmd: ACTOR DELETE
+[2020.05.17-19.22.23:530][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.17-19.22.23:603][526]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.05.17-19.22.23:608][526]LogEditorActor: Deleted 1 Actors (0.213 secs)
+[2020.05.17-19.22.29:490][813]LogActorFactory: Actor Factory created testliangongtai_Object30
+[2020.05.17-19.22.30:309][838]LogActorFactory: Actor Factory created testliangongtai_Object30
+[2020.05.17-19.23.23:043][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/Level21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.17-19.23.23:097][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.05.17-19.23.23:925][536]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Level21D20B4C3D422CF15356CDAB93FF0963DC.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/Level21.umap'
+[2020.05.17-19.23.24:000][536]AssetCheck: New page: 资源保存：Level21
+[2020.05.17-19.23.24:000][536]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.17-19.23.24:785][583]LogTemp: Repeating last play command: 选中的视口
+[2020.05.17-19.23.24:964][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.23.24:964][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.23.25:073][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-19.23.25:111][583]PIE: New page: PIE会话：Level21（2020年5月17日 上午11:23:25）
+[2020.05.17-19.23.25:217][583]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.17-19.23.25:239][583]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.17-19.23.25:273][583]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level21
+[2020.05.17-19.23.25:410][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137323s)
+[2020.05.17-19.23.25:447][583]LogAIModule: Creating AISystem for world Level21
+[2020.05.17-19.23.25:465][583]LogPlayLevel: PIE: World Init took: (0.054966s)
+[2020.05.17-19.23.25:465][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level21.Level21 to /Game/UEDPIE_0_Level21.Level21 (0.192802s)
+[2020.05.17-19.23.25:514][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.05.17-19.23.25:531][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.17-19.23.25:531][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.17-19.23.25:531][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.17-19.23.25:531][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.17-19.23.25:531][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.17-19.23.25:532][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.17-19.23.25:532][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.17-19.23.25:532][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.17-19.23.25:532][583]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.17-19.23.25:532][583]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: Name: 扬声器 (Realtek(R) Audio)
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: Is Default: Yes
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: Channel Order:
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: 1: FrontRight
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: 4: BackLeft
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: 5: BackRight
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: 6: SideLeft
+[2020.05.17-19.23.25:609][583]LogAudioMixer: Display: 7: SideRight
+[2020.05.17-19.23.25:887][583]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.05.17-19.23.25:907][583]LogInit: FAudioDevice initialized.
+[2020.05.17-19.23.26:018][583]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.17-19.23.26:209][583]PIE: Warning: 正尝试在“/Game/UEDPIE_0_Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.17-19.23.26:210][583]LogWorld: Bringing World /Game/UEDPIE_0_Level21.Level21 up for play (max tick rate 60) at 2020.05.17-15.23.26
+[2020.05.17-19.23.26:521][583]LogWorld: Bringing up level for play took: 0.319476
+[2020.05.17-19.23.26:522][583]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.05.17-19.23.26:817][583]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2020.05.17-19.23.26:834][583]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.17-19.23.26:834][583]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.17-19.23.26:834][583]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.17-19.23.27:107][583]LogBlueprintUserMessages: [Level21_C_5] 0
+[2020.05.17-19.23.27:110][583]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.17-19.23.27:110][583]PIE: /Game/UEDPIE_0_Level21在编辑器中运行的起始时间2.406
+[2020.05.17-19.23.27:110][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.23.27:110][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.23.44:860][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.23.44:860][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.23.44:962][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.23.44:962][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.23.44:996][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.23.44:996][586]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level21
+[2020.05.17-19.23.44:996][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.23.45:018][586]LogWorld: UWorld::CleanupWorld for Level21, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-19.23.45:034][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.23.45:069][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-19.23.45:070][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.23.45:070][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.23.45:075][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.23.45:157][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.23.45:184][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.23.45:338][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.05.17-19.23.45:582][587]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.05.17-19.23.51:965][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (testliangongtai_Object01)
+[2020.05.17-19.24.22:796][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RuinsBaseC4)
+[2020.05.17-19.24.23:964][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (testliangongtai_Object01)
+[2020.05.17-19.24.53:809][343]LogTemp: Repeating last play command: 选中的视口
+[2020.05.17-19.24.54:183][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.24.54:183][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.24.54:183][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-19.24.54:183][343]PIE: New page: PIE会话：Level21（2020年5月17日 上午11:24:54）
+[2020.05.17-19.24.54:183][343]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level21
+[2020.05.17-19.24.54:233][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050203s)
+[2020.05.17-19.24.54:235][343]LogAIModule: Creating AISystem for world Level21
+[2020.05.17-19.24.54:236][343]LogPlayLevel: PIE: World Init took: (0.002382s)
+[2020.05.17-19.24.54:236][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level21.Level21 to /Game/UEDPIE_0_Level21.Level21 (0.052869s)
+[2020.05.17-19.24.54:283][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.05.17-19.24.54:285][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.17-19.24.54:285][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.17-19.24.54:285][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.17-19.24.54:285][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.17-19.24.54:285][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.17-19.24.54:285][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.17-19.24.54:285][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.17-19.24.54:285][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.17-19.24.54:286][343]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.17-19.24.54:286][343]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.17-19.24.54:362][343]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.17-19.24.54:362][343]LogAudioMixer: Display: Name: 扬声器 (Realtek(R) Audio)
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: Is Default: Yes
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: Channel Order:
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: 1: FrontRight
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: 4: BackLeft
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: 5: BackRight
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: 6: SideLeft
+[2020.05.17-19.24.54:363][343]LogAudioMixer: Display: 7: SideRight
+[2020.05.17-19.24.54:643][343]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.05.17-19.24.54:646][343]LogInit: FAudioDevice initialized.
+[2020.05.17-19.24.54:656][343]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.17-19.24.54:667][343]PIE: Warning: 正尝试在“/Game/UEDPIE_0_Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.17-19.24.54:668][343]LogWorld: Bringing World /Game/UEDPIE_0_Level21.Level21 up for play (max tick rate 60) at 2020.05.17-15.24.54
+[2020.05.17-19.24.54:668][343]LogWorld: Bringing up level for play took: 0.010846
+[2020.05.17-19.24.54:668][343]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.05.17-19.24.54:671][343]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.17-19.24.54:671][343]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.17-19.24.54:671][343]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.17-19.24.54:677][343]LogBlueprintUserMessages: [Level21_C_5] 0
+[2020.05.17-19.24.54:680][343]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.17-19.24.54:680][343]PIE: /Game/UEDPIE_0_Level21在编辑器中运行的起始时间-0.023
+[2020.05.17-19.24.54:681][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.24.54:681][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.25.06:459][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.25.06:475][ 44]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.17-19.25.06:495][ 44]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.17-19.25.06:495][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.25.06:495][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.25.06:495][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.25.06:495][ 44]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level21
+[2020.05.17-19.25.06:495][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.25.06:496][ 44]LogWorld: UWorld::CleanupWorld for Level21, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-19.25.06:497][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.25.06:507][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-19.25.06:508][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.25.06:508][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.25.06:512][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.25.06:558][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.25.06:570][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.25.06:578][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.05.17-19.25.06:660][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.05.17-19.25.08:716][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (testliangongtai_Object27)
+[2020.05.17-19.26.47:731][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (testliangongtai_Object27)
+[2020.05.17-19.26.51:983][284]LogTemp: Repeating last play command: 选中的视口
+[2020.05.17-19.26.52:007][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.26.52:007][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.26.52:007][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-19.26.52:007][284]PIE: New page: PIE会话：Level21（2020年5月17日 上午11:26:52）
+[2020.05.17-19.26.52:007][284]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level21
+[2020.05.17-19.26.52:060][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052430s)
+[2020.05.17-19.26.52:061][284]LogAIModule: Creating AISystem for world Level21
+[2020.05.17-19.26.52:061][284]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2020.05.17-19.26.52:062][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level21.Level21 to /Game/UEDPIE_0_Level21.Level21 (0.054352s)
+[2020.05.17-19.26.52:111][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.05.17-19.26.52:113][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.17-19.26.52:113][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.17-19.26.52:113][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.17-19.26.52:113][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.17-19.26.52:113][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.17-19.26.52:114][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.17-19.26.52:114][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.17-19.26.52:114][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.17-19.26.52:114][284]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.17-19.26.52:114][284]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: Name: 扬声器 (Realtek(R) Audio)
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: Is Default: Yes
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: Channel Order:
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: 1: FrontRight
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: 4: BackLeft
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: 5: BackRight
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: 6: SideLeft
+[2020.05.17-19.26.52:205][284]LogAudioMixer: Display: 7: SideRight
+[2020.05.17-19.26.52:488][284]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.05.17-19.26.52:490][284]LogInit: FAudioDevice initialized.
+[2020.05.17-19.26.52:501][284]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.17-19.26.52:512][284]PIE: Warning: 正尝试在“/Game/UEDPIE_0_Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.17-19.26.52:514][284]LogWorld: Bringing World /Game/UEDPIE_0_Level21.Level21 up for play (max tick rate 60) at 2020.05.17-15.26.52
+[2020.05.17-19.26.52:514][284]LogWorld: Bringing up level for play took: 0.011801
+[2020.05.17-19.26.52:515][284]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.05.17-19.26.52:518][284]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.17-19.26.52:518][284]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.17-19.26.52:518][284]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.17-19.26.52:537][284]LogBlueprintUserMessages: [Level21_C_5] 0
+[2020.05.17-19.26.52:541][284]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.17-19.26.52:541][284]PIE: /Game/UEDPIE_0_Level21在编辑器中运行的起始时间-0.162
+[2020.05.17-19.26.52:542][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.26.52:542][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.27.20:779][759]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.27.20:779][759]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.27.20:779][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.27.20:780][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.27.20:780][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.27.20:780][759]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level21
+[2020.05.17-19.27.20:781][759]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.27.20:781][759]LogWorld: UWorld::CleanupWorld for Level21, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-19.27.20:783][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.27.20:799][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-19.27.20:799][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.27.20:799][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.27.20:806][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.27.20:859][759]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.27.20:870][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.27.20:880][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.05.17-19.27.21:068][760]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.05.17-19.27.28:244][128]LogTemp: Repeating last play command: 选中的视口
+[2020.05.17-19.27.28:276][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.27.28:276][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.27.28:276][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-19.27.28:276][128]PIE: New page: PIE会话：Level21（2020年5月17日 上午11:27:28）
+[2020.05.17-19.27.28:276][128]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level21
+[2020.05.17-19.27.28:356][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079401s)
+[2020.05.17-19.27.28:358][128]LogAIModule: Creating AISystem for world Level21
+[2020.05.17-19.27.28:358][128]LogPlayLevel: PIE: World Init took: (0.002490s)
+[2020.05.17-19.27.28:359][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level21.Level21 to /Game/UEDPIE_0_Level21.Level21 (0.082218s)
+[2020.05.17-19.27.28:413][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.05.17-19.27.28:415][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.17-19.27.28:415][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.17-19.27.28:415][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.17-19.27.28:415][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.17-19.27.28:415][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.17-19.27.28:415][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.17-19.27.28:415][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.17-19.27.28:415][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.17-19.27.28:416][128]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.17-19.27.28:416][128]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: Name: 扬声器 (Realtek(R) Audio)
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: Is Default: Yes
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: Channel Order:
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: 1: FrontRight
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: 4: BackLeft
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: 5: BackRight
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: 6: SideLeft
+[2020.05.17-19.27.28:536][128]LogAudioMixer: Display: 7: SideRight
+[2020.05.17-19.27.28:904][128]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.05.17-19.27.28:906][128]LogInit: FAudioDevice initialized.
+[2020.05.17-19.27.28:918][128]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.17-19.27.28:929][128]PIE: Warning: 正尝试在“/Game/UEDPIE_0_Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.17-19.27.28:930][128]LogWorld: Bringing World /Game/UEDPIE_0_Level21.Level21 up for play (max tick rate 60) at 2020.05.17-15.27.28
+[2020.05.17-19.27.28:931][128]LogWorld: Bringing up level for play took: 0.011640
+[2020.05.17-19.27.28:931][128]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.05.17-19.27.28:934][128]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.17-19.27.28:934][128]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.17-19.27.28:934][128]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.17-19.27.28:938][128]LogBlueprintUserMessages: [Level21_C_5] 0
+[2020.05.17-19.27.28:942][128]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.17-19.27.28:942][128]PIE: /Game/UEDPIE_0_Level21在编辑器中运行的起始时间0.238
+[2020.05.17-19.27.28:942][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.27.28:942][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.27.32:239][305]LogSlate: Took 0.045879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.05.17-19.28.23:572][172]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.28.23:572][172]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.28.23:572][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.28.23:572][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.28.23:573][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.28.23:573][172]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level21
+[2020.05.17-19.28.23:573][172]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.28.23:573][172]LogWorld: UWorld::CleanupWorld for Level21, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-19.28.23:575][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.28.23:594][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-19.28.23:594][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.17-19.28.23:594][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.17-19.28.23:602][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-19.28.23:652][172]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-19.28.23:664][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-19.28.23:684][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.05.17-19.28.23:900][173]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.05.17-19.28.47:374][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/Level21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.17-19.28.47:749][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.05.17-19.28.48:480][150]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/Level2102159AA74D4F6B827D6289AF2868B79B.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/Level21.umap'
+[2020.05.17-19.28.48:586][150]AssetCheck: New page: 资源保存：Level21
+[2020.05.17-19.28.48:586][150]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.17-19.28.50:764][259]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.05.17-19.28.52:626][259]LogSlate: Window '保存内容' being destroyed
+[2020.05.17-19.28.52:910][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/a1wu6-paoum1E4D2EC44FEA4A6507AE528895C031C4.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/a1wu6-paoum.uasset'
+[2020.05.17-19.28.52:955][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/a1wu6-paoum_Mat798B221A4B5587874471E793462709D4.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/a1wu6-paoum_Mat.uasset'
+[2020.05.17-19.28.53:073][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/a9tsz-51i26732FE67F4D9EF7B3AE598EB30E1AF1FD.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/a9tsz-51i26.uasset'
+[2020.05.17-19.28.53:111][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/a9tsz-51i26_MatF6159C284DF91976264EA2A136FDBAD3.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/a9tsz-51i26_Mat.uasset'
+[2020.05.17-19.28.53:152][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/ah0n9-qz7utCF22E8514412BBB990437B94AB1CA1A6.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/ah0n9-qz7ut.uasset'
+[2020.05.17-19.28.53:189][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/ah0n9-qz7ut_Mat374789CA492F6A1EBFB3FE821ECE42D5.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/ah0n9-qz7ut_Mat.uasset'
+[2020.05.17-19.28.53:363][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/aibai-xvzepDAAD5B234CBBEB2DEF1354BF99CD0712.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/aibai-xvzep.uasset'
+[2020.05.17-19.28.53:414][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/aibai-xvzep_Mat884E491B421135DF703B379AD4D40577.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/aibai-xvzep_Mat.uasset'
+[2020.05.17-19.28.53:495][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/aoyev-jocl9388ED2864C9313F2F0F2DA93D516EEBA.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/aoyev-jocl9.uasset'
+[2020.05.17-19.28.53:548][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/as3wr-mje8wC0F04708414CFCE0DC36A38DB7AC5AF6.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/as3wr-mje8w.uasset'
+[2020.05.17-19.28.53:584][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/as3wr-mje8w_MatFF5B995344CF524BB2772CB3BC2F40AB.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/as3wr-mje8w_Mat.uasset'
+[2020.05.17-19.28.53:597][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/biwutailj019CAC4B8B47A129DF34649D913BFC2A81.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/biwutailj01.uasset'
+[2020.05.17-19.28.53:608][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/langan001_lj477E9D714EE10640D3FD0CBF32E9953E.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/langan001_lj.uasset'
+[2020.05.17-19.28.53:619][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/ljthing0073D9A00C24533D9953AEEEE87E730C781.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/ljthing007.uasset'
+[2020.05.17-19.28.53:629][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/sufangzilyh00144C8DE974D2A2DB210498F81FB2D439D.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/sufangzilyh001.uasset'
+[2020.05.17-19.28.53:690][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object01DB91DA5F48845F9EB66B58A1226A5D0F.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/testliangongtai_Object01.uasset'
+[2020.05.17-19.28.53:714][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object2705C0A650480C523AAE6579AD356885C5.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/testliangongtai_Object27.uasset'
+[2020.05.17-19.28.53:757][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object282246D9BF9F3543F523F5127D3B8FC1EBD871.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/testliangongtai_Object282246.uasset'
+[2020.05.17-19.28.53:781][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object282352C70C0A6741F3A398389FAC901412C978.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/testliangongtai_Object282352.uasset'
+[2020.05.17-19.28.53:798][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object30DA786C61458A317392CAC4BD86B6758F.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/testliangongtai_Object30.uasset'
+[2020.05.17-19.28.53:826][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/testliangongtai_Object34A4EFC63448854CE0746A79AB7386C500.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/testliangongtai_Object34.uasset'
+[2020.05.17-19.28.53:839][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/wall001_lj799D04CD469031B98B6BBF9F3C3D8E87.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/wall001_lj.uasset'
+[2020.05.17-19.28.53:843][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/liangoliangongtai/xsclyh002" FILE="../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/xsclyh002.uasset" SILENT=true
+[2020.05.17-19.28.53:855][259]LogSavePackage: Moving '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Saved/xsclyh0020C04EF2F426A0C907EE9ED985024DBA6.tmp' to '../../../../../Unreal Projects/Level Design Final/Level-Design-Final/LDFinal/Content/liangoliangongtai/xsclyh002.uasset'
+[2020.05.17-19.28.54:007][259]AssetCheck: New page: 资源保存：多个资源
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Texture2D /Game/liangoliangongtai/a1wu6-paoum.a1wu6-paoum
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/a1wu6-paoum_Mat.a1wu6-paoum_Mat
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Texture2D /Game/liangoliangongtai/a9tsz-51i26.a9tsz-51i26
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/a9tsz-51i26_Mat.a9tsz-51i26_Mat
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Texture2D /Game/liangoliangongtai/ah0n9-qz7ut.ah0n9-qz7ut
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/ah0n9-qz7ut_Mat.ah0n9-qz7ut_Mat
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Texture2D /Game/liangoliangongtai/aibai-xvzep.aibai-xvzep
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/aibai-xvzep_Mat.aibai-xvzep_Mat
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Texture2D /Game/liangoliangongtai/aoyev-jocl9.aoyev-jocl9
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Texture2D /Game/liangoliangongtai/as3wr-mje8w.as3wr-mje8w
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/as3wr-mje8w_Mat.as3wr-mje8w_Mat
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/biwutailj01.biwutailj01
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/langan001_lj.langan001_lj
+[2020.05.17-19.28.54:007][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/ljthing007.ljthing007
+[2020.05.17-19.28.54:008][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/sufangzilyh001.sufangzilyh001
+[2020.05.17-19.28.54:008][259]LogContentValidation: Display: 正在验证StaticMesh /Game/liangoliangongtai/testliangongtai_Object01.testliangongtai_Object01
+[2020.05.17-19.28.54:008][259]LogContentValidation: Display: 正在验证StaticMesh /Game/liangoliangongtai/testliangongtai_Object27.testliangongtai_Object27
+[2020.05.17-19.28.54:008][259]LogContentValidation: Display: 正在验证StaticMesh /Game/liangoliangongtai/testliangongtai_Object282246.testliangongtai_Object282246
+[2020.05.17-19.28.54:008][259]LogContentValidation: Display: 正在验证StaticMesh /Game/liangoliangongtai/testliangongtai_Object282352.testliangongtai_Object282352
+[2020.05.17-19.28.54:008][259]LogContentValidation: Display: 正在验证StaticMesh /Game/liangoliangongtai/testliangongtai_Object30.testliangongtai_Object30
+[2020.05.17-19.28.54:008][259]LogContentValidation: Display: 正在验证StaticMesh /Game/liangoliangongtai/testliangongtai_Object34.testliangongtai_Object34
+[2020.05.17-19.28.54:008][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/wall001_lj.wall001_lj
+[2020.05.17-19.28.54:008][259]LogContentValidation: Display: 正在验证Material /Game/liangoliangongtai/xsclyh002.xsclyh002
