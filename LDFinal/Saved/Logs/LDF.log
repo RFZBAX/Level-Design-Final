@@ -1329,3 +1329,85 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-03.54.07:856][602]LogFileHelpers: Saving map 'Level21' took 0.638
 [2020.05.18-03.54.07:906][602]AssetCheck: New page: 资源保存：Level21
 [2020.05.18-03.54.07:906][602]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.18-03.54.52:733][927]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.BP_InventoryActor_Child_5
+[2020.05.18-03.54.59:461][287]BlueprintLog: New page: 编译BP_InventoryActor_Child_5
+[2020.05.18-03.54.59:761][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.05.18-03.55.00:905][346]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_561FAC651402FCB34E13E4490D390BC77.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.uasset'
+[2020.05.18-03.55.00:937][346]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_5
+[2020.05.18-03.55.00:937][346]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.BP_InventoryActor_Child_5
+[2020.05.18-03.55.18:471][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (file)
+[2020.05.18-03.55.20:411][452]LogEditorViewport: Clicking on Actor (LMB): Emitter (Cloud_36)
+[2020.05.18-03.55.56:042][122]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level21.Level21:PersistentLevel.Level21
+[2020.05.18-03.56.54:982][873]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (oldmantest2_335f4358_obj_Anim)
+[2020.05.18-03.56.56:142][935]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume12)
+[2020.05.18-03.56.57:702][ 24]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (oldmantest2_335f4358_obj_Anim)
+[2020.05.18-03.59.55:780][893]LogTemp: Repeating last play command: 选中的视口
+[2020.05.18-03.59.55:824][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.18-03.59.55:824][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.18-03.59.55:827][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.18-03.59.55:828][893]PIE: New page: PIE会话：Level21（2020年5月17日 下午7:59:55）
+[2020.05.18-03.59.55:835][893]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.18-03.59.55:838][893]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.18-03.59.55:839][893]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level21
+[2020.05.18-03.59.55:897][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057062s)
+[2020.05.18-03.59.55:899][893]LogAIModule: Creating AISystem for world Level21
+[2020.05.18-03.59.55:899][893]LogPlayLevel: PIE: World Init took: (0.002508s)
+[2020.05.18-03.59.55:900][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level21.Level21 to /Game/UEDPIE_0_Level21.Level21 (0.060335s)
+[2020.05.18-03.59.55:953][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.05.18-03.59.55:957][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.18-03.59.55:957][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.18-03.59.55:957][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.18-03.59.55:957][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.18-03.59.55:957][893]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.18-03.59.55:957][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.18-03.59.55:957][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.18-03.59.55:957][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.18-03.59.55:958][893]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.18-03.59.55:958][893]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.18-03.59.56:117][893]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.18-03.59.56:117][893]LogAudioMixer: Display: Name: 扬声器 (Realtek High Definition Audio)
+[2020.05.18-03.59.56:117][893]LogAudioMixer: Display: Is Default: Yes
+[2020.05.18-03.59.56:117][893]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.18-03.59.56:117][893]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.18-03.59.56:117][893]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.18-03.59.56:117][893]LogAudioMixer: Display: Channel Order:
+[2020.05.18-03.59.56:117][893]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.18-03.59.56:117][893]LogAudioMixer: Display: 1: FrontRight
+[2020.05.18-03.59.56:201][893]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.05.18-03.59.56:204][893]LogInit: FAudioDevice initialized.
+[2020.05.18-03.59.56:229][893]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.18-03.59.56:293][893]PIE: Warning: 正尝试在“/Game/UEDPIE_0_Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.18-03.59.56:295][893]LogWorld: Bringing World /Game/UEDPIE_0_Level21.Level21 up for play (max tick rate 60) at 2020.05.17-23.59.56
+[2020.05.18-03.59.56:308][893]LogWorld: Bringing up level for play took: 0.023451
+[2020.05.18-03.59.56:309][893]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.05.18-03.59.56:324][893]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2020.05.18-03.59.56:325][893]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.18-03.59.56:325][893]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.18-03.59.56:325][893]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.18-03.59.56:341][893]Cmd: DisableAllScreenMessages
+[2020.05.18-03.59.56:341][893]LogEngine: Onscreen warnings/messages are now DISABLED
+[2020.05.18-03.59.56:350][893]LogBlueprintUserMessages: [Level21_C_3] 0
+[2020.05.18-03.59.56:353][893]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.18-03.59.56:354][893]PIE: /Game/UEDPIE_0_Level21在编辑器中运行的起始时间-0.103
+[2020.05.18-03.59.56:354][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.18-03.59.56:354][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.18-04.01.39:248][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.18-04.01.39:248][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.18-04.01.39:250][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.18-04.01.39:251][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.18-04.01.39:372][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-04.01.39:373][440]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level21
+[2020.05.18-04.01.39:373][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.18-04.01.39:376][440]LogWorld: UWorld::CleanupWorld for Level21, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-04.01.39:378][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-04.01.39:418][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.18-04.01.39:419][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level21.Level21:PersistentLevel' has LevelScriptBlueprint '/Game/Level21.Level21:PersistentLevel.Level21' with GeneratedClass '/Game/Level21.Level21_C' with ClassGeneratedBy '/Game/Level21.Level21:PersistentLevel.Level21'
+[2020.05.18-04.01.39:419][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel' has LevelScriptBlueprint '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default' with GeneratedClass '/Game/ZhangJiajieMountain/Template_Default.Template_Default_C' with ClassGeneratedBy '/Game/ZhangJiajieMountain/Template_Default.Template_Default:PersistentLevel.Template_Default'
+[2020.05.18-04.01.39:427][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-04.01.39:497][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.18-04.01.39:509][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-04.01.39:539][440]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2020.05.18-04.01.39:728][441]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.05.18-04.01.39:778][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.05.18-04.01.40:980][462]LogSlate: Window '消息日志' being destroyed
+[2020.05.18-04.01.41:058][462]LogSlate: Window '消息日志' being destroyed
