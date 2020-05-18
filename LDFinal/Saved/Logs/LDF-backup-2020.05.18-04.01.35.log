@@ -1,0 +1,1331 @@
+﻿Log file open, 05/17/20 23:11:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LDF
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191637
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Game/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.18-03.11.34:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.18-03.11.34:191][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.18-03.11.34:192][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.18-03.11.34:192][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.18-03.11.34:192][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.18-03.11.34:192][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.18-03.11.34:192][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.18-03.11.34:192][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.18-03.11.34:192][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.18-03.11.34:192][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.18-03.11.34:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.18-03.11.34:192][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.18-03.11.34:198][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.18-03.11.34:198][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.18-03.11.34:199][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.18-03.11.34:200][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.18-03.11.34:200][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.18-03.11.34:200][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.18-03.11.34:204][  0]LogHAL: Display: Platform has ~ 16 GB [16985870336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.18-03.11.34:204][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.18-03.11.34:204][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.18-03.11.34:204][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.18-03.11.34:205][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Scalability.ini]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.18-03.11.34:206][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.18-03.11.34:207][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.18-03.11.34:207][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.18-03.11.34:207][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Config/Windows/Engine.ini]
+[2020.05.18-03.11.34:207][  0]LogInit: Computer: DESKTOP-GF1EQQH
+[2020.05.18-03.11.34:207][  0]LogInit: User: hasee
+[2020.05.18-03.11.34:207][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.18-03.11.34:207][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.18-03.11.34:207][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.05.18-03.11.34:207][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.18-03.11.34:207][  0]LogMemory: Process Physical Memory: 106.17 MB used, 106.18 MB peak
+[2020.05.18-03.11.34:207][  0]LogMemory: Process Virtual Memory: 100.93 MB used, 100.93 MB peak
+[2020.05.18-03.11.34:207][  0]LogMemory: Physical Memory: 8971.12 MB used,  7227.87 MB free, 16198.99 MB total
+[2020.05.18-03.11.34:207][  0]LogMemory: Virtual Memory: 5140.34 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.05.18-03.11.34:217][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.18-03.11.34:275][  0]LogInit: Using OS detected language (zh-CN).
+[2020.05.18-03.11.34:275][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.05.18-03.11.34:276][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2020.05.18-03.11.34:345][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.05.18-03.11.34:345][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.05.18-03.11.34:345][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.05.18-03.11.34:345][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.05.18-03.11.34:345][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.05.18-03.11.34:346][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.05.18-03.11.34:346][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.05.18-03.11.34:346][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.05.18-03.11.34:347][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.05.18-03.11.34:347][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.05.18-03.11.34:347][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.05.18-03.11.34:379][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.18-03.11.34:456][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.18-03.11.34:456][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.18-03.11.34:842][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.18-03.11.34:842][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.18-03.11.34:842][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.18-03.11.34:842][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.18-03.11.34:968][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2020.05.18-03.11.34:968][  0]LogD3D11RHI:       8144/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.18-03.11.35:079][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.05.18-03.11.35:079][  0]LogD3D11RHI:       128/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.18-03.11.35:084][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.18-03.11.35:084][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.18-03.11.35:084][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.18-03.11.35:153][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.18-03.11.35:153][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.18-03.11.35:153][  0]LogWindows: EnumDisplayDevices:
+[2020.05.18-03.11.35:154][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.05.18-03.11.35:155][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.05.18-03.11.35:156][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.05.18-03.11.35:158][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:1)
+[2020.05.18-03.11.35:159][  0]LogWindows:    4. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2020.05.18-03.11.35:160][  0]LogWindows:    5. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2020.05.18-03.11.35:161][  0]LogWindows:    6. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2020.05.18-03.11.35:163][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.18-03.11.35:163][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2020.05.18-03.11.35:163][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2020.05.18-03.11.35:163][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2020.05.18-03.11.35:163][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2020.05.18-03.11.35:234][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.18-03.11.35:234][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.18-03.11.35:247][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.18-03.11.35:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.18-03.11.36:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.18-03.11.36:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.18-03.11.36:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.18-03.11.36:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.18-03.11.36:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.18-03.11.36:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.18-03.11.36:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.18-03.11.36:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.18-03.11.36:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.18-03.11.36:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.18-03.11.36:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.18-03.11.36:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.18-03.11.36:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.18-03.11.36:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.18-03.11.36:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.18-03.11.36:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.18-03.11.36:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.18-03.11.36:205][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.18-03.11.36:215][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.18-03.11.36:267][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (I:/Unreal Project/Level-Design-Final/LDFinal/Intermediate/Shaders/WorkingDirectory/508/).
+[2020.05.18-03.11.36:267][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'I:/Temp/UnrealShaderWorkingDir/ACFBD23A4184978A8D2DF1906C634980/'.
+[2020.05.18-03.11.36:268][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.18-03.11.36:269][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.18-03.11.36:269][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.18-03.11.37:190][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.18-03.11.37:258][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.18-03.11.37:258][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.18-03.11.37:258][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/Unreal Project/Level-Design-Final/LDFinal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.18-03.11.37:258][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.18-03.11.37:258][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/Unreal Project/Level-Design-Final/LDFinal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.18-03.11.37:258][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.18-03.11.37:269][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.18-03.11.37:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.18-03.11.37:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.18-03.11.37:273][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.18-03.11.37:273][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.18-03.11.37:273][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.18-03.11.37:304][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.18-03.11.37:308][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.18-03.11.37:309][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.18-03.11.37:393][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.05.18-03.11.37:829][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.18-03.11.38:036][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.18-03.11.38:036][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.18-03.11.38:036][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.18-03.11.38:036][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.18-03.11.38:036][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.18-03.11.38:054][  0]LogNetVersion: LDF 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2805682252)
+[2020.05.18-03.11.39:635][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.131300 seconds
+[2020.05.18-03.11.39:643][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.18-03.11.39:643][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.18-03.11.39:643][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.18-03.11.40:198][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.18-03.11.40:202][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.18-03.11.40:280][  0]SourceControl: 源码管理已禁用
+[2020.05.18-03.11.40:280][  0]SourceControl: 源码管理已禁用
+[2020.05.18-03.11.40:283][  0]SourceControl: 源码管理已禁用
+[2020.05.18-03.11.40:285][  0]SourceControl: 源码管理已禁用
+[2020.05.18-03.11.40:286][  0]SourceControl: 源码管理已禁用
+[2020.05.18-03.11.40:435][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.18-03.11.40:453][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.18-03.11.40:453][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.18-03.11.40:569][  0]LogOcInput: OculusInput pre-init called
+[2020.05.18-03.11.40:593][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.18-03.11.40:593][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.18-03.11.40:677][  0]LogEngine: Initializing Engine...
+[2020.05.18-03.11.40:681][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.18-03.11.40:682][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.18-03.11.41:088][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.18-03.11.41:100][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.18-03.11.41:124][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.18-03.11.41:124][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.18-03.11.41:124][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.18-03.11.41:124][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.18-03.11.41:124][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.18-03.11.41:124][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.18-03.11.41:124][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.18-03.11.41:124][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.18-03.11.41:125][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.18-03.11.41:126][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.18-03.11.41:279][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.18-03.11.41:279][  0]LogAudioMixer: Display: Name: 扬声器 (Realtek High Definition Audio)
+[2020.05.18-03.11.41:279][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.18-03.11.41:279][  0]LogAudioMixer: Display: Sample Rate: 44100
+[2020.05.18-03.11.41:279][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.18-03.11.41:279][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.18-03.11.41:279][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.18-03.11.41:279][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.18-03.11.41:279][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.18-03.11.41:381][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.05.18-03.11.41:388][  0]LogInit: FAudioDevice initialized.
+[2020.05.18-03.11.41:388][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.18-03.11.41:587][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/hasee/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.18-03.11.41:598][  0]LogInit: Texture streaming: Enabled
+[2020.05.18-03.11.41:617][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.18-03.11.41:617][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.18-03.11.41:636][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.18-03.11.41:714][  0]LogInit: Transaction tracking system initialized
+[2020.05.18-03.11.41:731][  0]BlueprintLog: New page: 编辑器加载
+[2020.05.18-03.11.41:782][  0]LocalizationService: 本地化服务已禁用
+[2020.05.18-03.11.42:172][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/' took 0.02s
+[2020.05.18-03.11.42:172][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.18-03.11.42:172][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.18-03.11.43:288][  0]SourceControl: 源码管理已禁用
+[2020.05.18-03.11.43:289][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.18-03.11.43:290][  0]LightingResults: New page: 光照构建
+[2020.05.18-03.11.43:291][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.11.43:291][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.11.43:291][  0]MapCheck: New page: 地图检测
+[2020.05.18-03.11.43:291][  0]LightingResults: New page: 光照构建
+[2020.05.18-03.11.43:321][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.18-03.11.43:429][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.05.18-03.11.43:436][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.18-03.11.43:467][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.05.18-03.11.43:468][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.18-03.11.43:468][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.357毫秒。
+[2020.05.18-03.11.43:468][  0]LogFileHelpers: Loading map 'Template_Default' took 0.179
+[2020.05.18-03.11.43:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-03.11.43:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-03.11.43:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-03.11.43:736][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-03.11.43:747][  0]LogCollectionManager: Loaded 0 collections in 0.002116 seconds
+[2020.05.18-03.11.43:764][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Collections/' took 0.00s
+[2020.05.18-03.11.43:764][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Developers/hasee/Collections/' took 0.00s
+[2020.05.18-03.11.43:764][  0]LogFileCache: Scanning file cache for directory 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Collections/' took 0.00s
+[2020.05.18-03.11.43:764][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 3015 classes and 717 folders.
+[2020.05.18-03.11.43:768][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.18-03.11.43:873][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.18-03.11.43:878][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.05.18-03.11.43:892][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.18-03.11.44:025][  0]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.18-03.11.44:027][  0]LogSlate: Took 0.001896 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.18-03.11.44:028][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.18-03.11.44:031][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.18-03.11.44:114][  0]LogRenderer: Reallocating scene render targets to support 1860x560 Format 10 NumSamples 1 (Frame:1).
+[2020.05.18-03.11.44:226][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.18-03.11.44:226][  0]LogLoad: (Engine Initialization) Total time: 12.74 seconds
+[2020.05.18-03.11.44:226][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.18-03.11.44:296][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.18-03.11.44:381][  2]LogAssetRegistry: Asset discovery search completed in 6.9894 seconds
+[2020.05.18-03.11.44:386][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2020.05.18-03.11.48:318][237]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.18-03.11.54:286][582]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset”时未能加载“/Game/paper/9_Mat”：无法找到文件。
+[2020.05.18-03.11.54:286][582]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset”时未能加载“/Game/paper/9_Mat”：无法找到文件。
+[2020.05.18-03.11.54:287][582]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset”时未能加载“/Game/paper/9_Mat”：无法找到文件。
+[2020.05.18-03.11.54:287][582]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset”时未能加载“/Game/paper/9_Mat”：无法找到文件。
+[2020.05.18-03.11.54:288][582]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset”时未能加载“/Game/paper/9_Mat”：无法找到文件。
+[2020.05.18-03.11.54:288][582]LoadErrors: 加载失败 /Game/paper/9_Mat.9_Mat 引用者 StaticMesh9
+[2020.05.18-03.11.54:288][582]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset”时未能加载“/Game/paper/9_Mat”：无法找到文件。
+[2020.05.18-03.11.54:289][582]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset”时未能加载“/Game/paper/9_Mat”：无法找到文件。
+[2020.05.18-03.11.54:289][582]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset”时未能加载“/Game/paper/9_Mat”：无法找到文件。
+[2020.05.18-03.11.54:428][586]LogActorFactory: Actor Factory created StaticMesh9
+[2020.05.18-03.11.55:056][621]LogActorFactory: Actor Factory created StaticMesh9
+[2020.05.18-03.12.02:718][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StaticMesh9)
+[2020.05.18-03.12.06:137][275]Cmd: DELETE
+[2020.05.18-03.12.06:137][275]Cmd: ACTOR DELETE
+[2020.05.18-03.12.06:145][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.18-03.12.06:172][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.05.18-03.12.06:173][275]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.05.18-03.12.11:138][559]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.18-03.12.12:239][559]LogLinker: Warning: Asset 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.18-03.12.12:239][559]LogLinker: Warning: Asset 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.18-03.12.12:240][559]LogLinker: Warning: Asset 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.18-03.12.15:136][559]LogTexture: Display: 正在编译纹理：1（AutoDXT、768X1024）
+[2020.05.18-03.12.15:136][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:136][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:136][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:136][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:136][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:137][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:137][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:137][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:137][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:137][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_DialogBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:137][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:137][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BarFade_INST_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Blueprints/Widgets/BPW_WarningBox (BarFade)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:151][559]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:622][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:622][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (S_Drawer1Sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:622][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (S_Drawer1Sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:622][559]LogMovieScene: Warning: Legacy data detected in sequence '/Game/CVInvInterface/Sequences/S_Drawer1Sequence (S_Drawer1Sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2020.05.18-03.12.15:623][559]LogClass: Warning: Enum '/Game/CVInvInterface/Blueprints/E_TakableOrNot.E_TakableOrNot' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.05.18-03.12.15:711][559]LogMaterial: Display: Missing cached shader map for material 1_Mat, compiling. 
+[2020.05.18-03.12.18:749][559]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.18-03.12.18:749][559]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.18-03.12.18:749][559]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.18-03.12.18:749][559]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.18-03.12.18:749][559]LogAIModule: Creating AISystem for world Level21
+[2020.05.18-03.12.19:012][559]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level21.Level21
+[2020.05.18-03.12.19:176][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.05.18-03.12.22:207][559]LogSlate: Window '保存内容' being destroyed
+[2020.05.18-03.12.22:256][559]Cmd: MAP LOAD FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.18-03.12.22:260][559]LightingResults: New page: 光照构建
+[2020.05.18-03.12.22:261][559]LoadErrors: New page: 正在加载地图：Level21.umap
+[2020.05.18-03.12.22:283][559]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.12.22:286][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.12.22:333][559]MapCheck: New page: 地图检测
+[2020.05.18-03.12.22:333][559]LightingResults: New page: 光照构建
+[2020.05.18-03.12.22:408][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.05.18-03.12.22:512][559]PIE: Warning: 正尝试在“/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.18-03.12.22:562][559]PIE: Warning: 正尝试在“/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.18-03.12.22:563][559]PIE: Warning: 正尝试在“/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_3.PickupMesh”上模拟物理，但它拥有ComplexAsSimple碰撞。
+[2020.05.18-03.12.22:572][559]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ZhangJiajieMountain/Template_Default) is flushing async loading
+[2020.05.18-03.12.22:572][559]LogStreaming: Display: Flushing async loaders.
+[2020.05.18-03.12.22:808][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:808][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:920][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:920][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:923][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:924][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:924][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:924][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:930][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:930][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:931][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:931][559]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2020.05.18-03.12.22:943][559]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/ZhangJiajieMountain/Template_Default.umap”时未能加载“/Game/Models/oldmantest2”：无法找到文件。
+[2020.05.18-03.12.22:943][559]LoadErrors: 加载失败 /Game/Models/oldmantest2.oldmantest2_Object02 引用者 oldmantest2_Object02_2
+[2020.05.18-03.12.22:943][559]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/ZhangJiajieMountain/Template_Default.umap”时未能加载“/Game/Models/oldmantest2”：无法找到文件。
+[2020.05.18-03.12.23:609][559]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.18-03.12.23:768][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.05.18-03.12.23:817][559]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.18-03.12.23:822][559]MapCheck: 地图检测完成：0个错误、0个警告、完成用时4.901毫秒。
+[2020.05.18-03.12.23:822][559]LogFileHelpers: Loading map 'Level21' took 1.606
+[2020.05.18-03.12.28:161][705]LogSlate: Window '消息日志' being destroyed
+[2020.05.18-03.12.28:171][705]LogSlate: Window '消息日志' being destroyed
+[2020.05.18-03.12.36:464][ 80]LogStaticMesh: 正在构建静态网格体StaticMesh……
+[2020.05.18-03.12.36:597][ 80]LogStaticMesh: Built static mesh [0.14s] /Game/paper/StaticMesh.StaticMesh
+[2020.05.18-03.12.36:666][ 80]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh.StaticMesh
+[2020.05.18-03.12.37:615][ 80]LogSlate: Took 0.008681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.18-03.13.26:084][304]LogSlate: Window 'StaticMesh' being destroyed
+[2020.05.18-03.13.26:138][304]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.13.26:138][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.13.28:818][411]LogActorFactory: Actor Factory created StaticMesh
+[2020.05.18-03.13.29:404][439]LogActorFactory: Actor Factory created StaticMesh
+[2020.05.18-03.13.35:530][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StaticMesh)
+[2020.05.18-03.16.35:538][216]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh9.StaticMesh9
+[2020.05.18-03.17.11:512][ 28]LogMaterial: Display: Missing cached shader map for material 9_Mat, compiling. 
+[2020.05.18-03.17.11:557][ 29]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.18-03.17.11:557][ 29]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.18-03.17.11:557][ 29]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.18-03.17.11:557][ 29]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.18-03.17.26:071][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh9" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset" SILENT=true
+[2020.05.18-03.17.26:139][761]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh9C1E8CA6947DD7836D2F505863F7261A1.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset'
+[2020.05.18-03.17.26:175][761]AssetCheck: New page: 资源保存：StaticMesh9
+[2020.05.18-03.17.26:175][761]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh9.StaticMesh9
+[2020.05.18-03.17.27:130][813]LogSlate: Window 'StaticMesh9' being destroyed
+[2020.05.18-03.17.27:170][813]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.17.27:170][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.17.59:004][447]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh.StaticMesh
+[2020.05.18-03.18.01:269][528]LogRenderer: Reallocating scene render targets to support 1860x600 Format 10 NumSamples 1 (Frame:84).
+[2020.05.18-03.18.01:348][528]LogRenderer: Reallocating scene render targets to support 1860x680 Format 10 NumSamples 1 (Frame:85).
+[2020.05.18-03.18.01:429][528]LogRenderer: Reallocating scene render targets to support 1860x720 Format 10 NumSamples 1 (Frame:86).
+[2020.05.18-03.18.01:498][528]LogRenderer: Reallocating scene render targets to support 1860x736 Format 10 NumSamples 1 (Frame:87).
+[2020.05.18-03.18.01:747][528]LogRenderer: Reallocating scene render targets to support 1860x740 Format 10 NumSamples 1 (Frame:89).
+[2020.05.18-03.18.27:652][831]LogStaticMesh: 正在构建静态网格体StaticMesh……
+[2020.05.18-03.18.27:656][831]LogStaticMesh: Built static mesh [0.01s] /Game/paper/StaticMesh.StaticMesh
+[2020.05.18-03.18.32:728][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh.uasset" SILENT=true
+[2020.05.18-03.18.32:782][ 82]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh36AD51884DD35201D37F2EBC1FBFC269.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh.uasset'
+[2020.05.18-03.18.32:809][ 82]AssetCheck: New page: 资源保存：StaticMesh
+[2020.05.18-03.18.32:809][ 82]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh.StaticMesh
+[2020.05.18-03.18.36:695][282]LogSlate: Window 'StaticMesh' being destroyed
+[2020.05.18-03.18.36:704][282]LogSlate: Window 'StaticMesh' being destroyed
+[2020.05.18-03.18.36:731][282]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.18.36:732][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.18.41:004][432]LogTexture: Display: 正在编译纹理：double_jump（AutoDXT、768X1024）
+[2020.05.18-03.18.41:004][432]LogMaterial: Display: Missing cached shader map for material double_jump_Mat, compiling. 
+[2020.05.18-03.18.41:028][432]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.18-03.18.41:028][432]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.18-03.18.41:028][432]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.18-03.18.41:028][432]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.18-03.18.41:070][432]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh2.StaticMesh2
+[2020.05.18-03.19.08:151][768]LogStaticMesh: 正在构建静态网格体StaticMesh2……
+[2020.05.18-03.19.08:154][768]LogStaticMesh: Built static mesh [0.00s] /Game/paper/StaticMesh2.StaticMesh2
+[2020.05.18-03.19.09:809][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh2" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh2.uasset" SILENT=true
+[2020.05.18-03.19.09:868][846]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh2C85B91744E8CF96D45C526B147528F5C.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh2.uasset'
+[2020.05.18-03.19.09:893][846]AssetCheck: New page: 资源保存：StaticMesh2
+[2020.05.18-03.19.09:893][846]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh2.StaticMesh2
+[2020.05.18-03.19.14:469][ 81]LogSlate: Window 'StaticMesh2' being destroyed
+[2020.05.18-03.19.14:478][ 81]LogSlate: Window 'StaticMesh2' being destroyed
+[2020.05.18-03.19.14:504][ 81]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.19.14:504][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.19.17:231][201]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh3.StaticMesh3
+[2020.05.18-03.19.32:300][942]LogStaticMesh: 正在构建静态网格体StaticMesh3……
+[2020.05.18-03.19.32:304][942]LogStaticMesh: Built static mesh [0.01s] /Game/paper/StaticMesh3.StaticMesh3
+[2020.05.18-03.19.34:142][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh3" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh3.uasset" SILENT=true
+[2020.05.18-03.19.34:200][ 28]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh31D7354EC4F5875B7389FF89AD398A2B5.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh3.uasset'
+[2020.05.18-03.19.34:227][ 28]AssetCheck: New page: 资源保存：StaticMesh3
+[2020.05.18-03.19.34:227][ 28]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh3.StaticMesh3
+[2020.05.18-03.19.35:968][115]LogSlate: Window 'StaticMesh3' being destroyed
+[2020.05.18-03.19.36:008][115]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.19.36:008][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.19.37:470][178]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh4.StaticMesh4
+[2020.05.18-03.19.51:774][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh4" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh4.uasset" SILENT=true
+[2020.05.18-03.19.51:827][877]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh4CB2B88114C4738BC24D663AAFC874ECA.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh4.uasset'
+[2020.05.18-03.19.51:850][877]AssetCheck: New page: 资源保存：StaticMesh4
+[2020.05.18-03.19.51:850][877]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh4.StaticMesh4
+[2020.05.18-03.19.56:651][968]LogSlate: Window '消息' being destroyed
+[2020.05.18-03.19.56:696][968]LogStaticMesh: 正在构建静态网格体StaticMesh4……
+[2020.05.18-03.19.56:701][968]LogStaticMesh: Built static mesh [0.00s] /Game/paper/StaticMesh4.StaticMesh4
+[2020.05.18-03.19.56:733][968]LogSlate: Window 'StaticMesh4' being destroyed
+[2020.05.18-03.19.56:760][968]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.19.56:760][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.19.58:845][ 61]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh5.StaticMesh5
+[2020.05.18-03.20.13:605][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh5" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh5.uasset" SILENT=true
+[2020.05.18-03.20.13:656][792]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh5786DD6DD43399A699D34F386A662ED46.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh5.uasset'
+[2020.05.18-03.20.13:678][792]AssetCheck: New page: 资源保存：StaticMesh5
+[2020.05.18-03.20.13:678][792]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh5.StaticMesh5
+[2020.05.18-03.20.17:396][876]LogSlate: Window '消息' being destroyed
+[2020.05.18-03.20.17:432][876]LogStaticMesh: 正在构建静态网格体StaticMesh5……
+[2020.05.18-03.20.17:435][876]LogStaticMesh: Built static mesh [0.00s] /Game/paper/StaticMesh5.StaticMesh5
+[2020.05.18-03.20.17:469][876]LogSlate: Window 'StaticMesh5' being destroyed
+[2020.05.18-03.20.17:501][876]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.20.17:501][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.20.18:848][939]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset”时未能加载“/Game/paper/6_Mat”：无法找到文件。
+[2020.05.18-03.20.18:849][939]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset”时未能加载“/Game/paper/6_Mat”：无法找到文件。
+[2020.05.18-03.20.18:849][939]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset”时未能加载“/Game/paper/6_Mat”：无法找到文件。
+[2020.05.18-03.20.18:850][939]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset”时未能加载“/Game/paper/6_Mat”：无法找到文件。
+[2020.05.18-03.20.18:850][939]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset”时未能加载“/Game/paper/6_Mat”：无法找到文件。
+[2020.05.18-03.20.18:851][939]LoadErrors: 加载失败 /Game/paper/6_Mat.6_Mat 引用者 StaticMesh6
+[2020.05.18-03.20.18:851][939]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset”时未能加载“/Game/paper/6_Mat”：无法找到文件。
+[2020.05.18-03.20.18:851][939]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset”时未能加载“/Game/paper/6_Mat”：无法找到文件。
+[2020.05.18-03.20.18:852][939]LogLinker: Warning: 加载“I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset”时未能加载“/Game/paper/6_Mat”：无法找到文件。
+[2020.05.18-03.20.18:908][939]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh6.StaticMesh6
+[2020.05.18-03.20.37:994][881]LogStaticMesh: 正在构建静态网格体StaticMesh6……
+[2020.05.18-03.20.37:998][881]LogStaticMesh: Built static mesh [0.00s] /Game/paper/StaticMesh6.StaticMesh6
+[2020.05.18-03.20.39:709][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh6" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset" SILENT=true
+[2020.05.18-03.20.39:895][961]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh6261F75FE4C6C798739316A82917245FB.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset'
+[2020.05.18-03.20.39:921][961]AssetCheck: New page: 资源保存：StaticMesh6
+[2020.05.18-03.20.39:921][961]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh6.StaticMesh6
+[2020.05.18-03.20.40:638][992]LogSlate: Window 'StaticMesh6' being destroyed
+[2020.05.18-03.20.40:675][992]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.20.40:675][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.21.00:711][963]LogMaterial: Display: Missing cached shader map for material 6_Mat, compiling. 
+[2020.05.18-03.21.00:754][964]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.18-03.21.00:754][964]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.18-03.21.00:754][964]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.18-03.21.00:754][964]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.18-03.21.11:141][459]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh6.StaticMesh6
+[2020.05.18-03.21.30:889][ 72]LogStaticMesh: 正在构建静态网格体StaticMesh6……
+[2020.05.18-03.21.30:948][ 72]LogStaticMesh: Built static mesh [0.06s] /Game/paper/StaticMesh6.StaticMesh6
+[2020.05.18-03.21.35:188][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh6" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset" SILENT=true
+[2020.05.18-03.21.35:235][202]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh6AA378A7B4310A74DA784A9A60BAF61A8.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh6.uasset'
+[2020.05.18-03.21.35:262][202]AssetCheck: New page: 资源保存：StaticMesh6
+[2020.05.18-03.21.35:263][202]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh6.StaticMesh6
+[2020.05.18-03.21.36:778][280]LogSlate: Window 'StaticMesh6' being destroyed
+[2020.05.18-03.21.36:786][280]LogSlate: Window 'StaticMesh6' being destroyed
+[2020.05.18-03.21.36:814][280]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.21.36:814][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.21.39:539][396]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh7.StaticMesh7
+[2020.05.18-03.22.11:773][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.05.18-03.22.11:777][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/Level21_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.18-03.22.12:240][  8]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level21_Auto1763F4C88420A4D55127618B1A2A6D87B.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/Level21_Auto1.umap'
+[2020.05.18-03.22.12:249][  8]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level21' took 0.515
+[2020.05.18-03.22.12:249][  8]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.515
+[2020.05.18-03.22.12:249][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/paper/9_Mat] ([1] browsable assets)...
+[2020.05.18-03.22.12:263][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/paper/9_Mat.9_Mat]
+[2020.05.18-03.22.12:264][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/paper/9_Mat]
+[2020.05.18-03.22.12:264][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/9_Mat" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/paper/9_Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.18-03.22.12:285][  8]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/9_Mat_Auto14FCA650A4F16EFDF170A32B2C46AF75E.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/paper/9_Mat_Auto1.uasset'
+[2020.05.18-03.22.12:288][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/paper/StaticMesh4] ([1] browsable assets)...
+[2020.05.18-03.22.12:300][  8]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/paper/StaticMesh4.StaticMesh4]
+[2020.05.18-03.22.12:300][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/paper/StaticMesh4]
+[2020.05.18-03.22.12:300][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh4" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/paper/StaticMesh4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.18-03.22.12:347][  8]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh4_Auto19231AC9B4A75BC0AB00B159D87ED2105.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/paper/StaticMesh4_Auto1.uasset'
+[2020.05.18-03.22.12:350][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/paper/StaticMesh5] ([1] browsable assets)...
+[2020.05.18-03.22.12:362][  8]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/paper/StaticMesh5.StaticMesh5]
+[2020.05.18-03.22.12:362][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/paper/StaticMesh5]
+[2020.05.18-03.22.12:362][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh5" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/paper/StaticMesh5_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.18-03.22.12:407][  8]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh5_Auto13D96920C40F5638BCAFFCA9E6C3BBEEF.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/paper/StaticMesh5_Auto1.uasset'
+[2020.05.18-03.22.12:410][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/paper/6_Mat] ([1] browsable assets)...
+[2020.05.18-03.22.12:423][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/paper/6_Mat.6_Mat]
+[2020.05.18-03.22.12:423][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/paper/6_Mat]
+[2020.05.18-03.22.12:423][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/6_Mat" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/paper/6_Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.18-03.22.12:445][  8]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/6_Mat_Auto16923A9604A44605A1C5F0B9E6CAC0F97.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/paper/6_Mat_Auto1.uasset'
+[2020.05.18-03.22.12:448][  8]LogFileHelpers: Auto-saving content packages took 0.199
+[2020.05.18-03.22.39:505][388]LogStaticMesh: 正在构建静态网格体StaticMesh7……
+[2020.05.18-03.22.39:509][388]LogStaticMesh: Built static mesh [0.01s] /Game/paper/StaticMesh7.StaticMesh7
+[2020.05.18-03.22.43:816][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh7" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh7.uasset" SILENT=true
+[2020.05.18-03.22.43:868][598]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh7613E52A249F2A39E8710E6AF425A1130.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh7.uasset'
+[2020.05.18-03.22.43:895][598]AssetCheck: New page: 资源保存：StaticMesh7
+[2020.05.18-03.22.43:895][598]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh7.StaticMesh7
+[2020.05.18-03.22.45:191][662]LogSlate: Window 'StaticMesh7' being destroyed
+[2020.05.18-03.22.45:232][662]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.22.45:232][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.22.46:555][720]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh8.StaticMesh8
+[2020.05.18-03.23.08:371][804]LogStaticMesh: 正在构建静态网格体StaticMesh8……
+[2020.05.18-03.23.08:375][804]LogStaticMesh: Built static mesh [0.00s] /Game/paper/StaticMesh8.StaticMesh8
+[2020.05.18-03.23.09:879][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh8" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh8.uasset" SILENT=true
+[2020.05.18-03.23.09:930][875]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh850C325E741564B6620927680E2E1C40D.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh8.uasset'
+[2020.05.18-03.23.09:954][875]AssetCheck: New page: 资源保存：StaticMesh8
+[2020.05.18-03.23.09:955][875]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh8.StaticMesh8
+[2020.05.18-03.23.14:074][ 82]LogSlate: Window 'StaticMesh8' being destroyed
+[2020.05.18-03.23.14:084][ 82]LogSlate: Window 'StaticMesh8' being destroyed
+[2020.05.18-03.23.14:114][ 82]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.23.14:115][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.23.15:783][156]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh9.StaticMesh9
+[2020.05.18-03.23.37:751][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh9" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset" SILENT=true
+[2020.05.18-03.23.37:797][250]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh9E2707D1B43F361BB44AB0B8F45287D01.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset'
+[2020.05.18-03.23.37:822][250]AssetCheck: New page: 资源保存：StaticMesh9
+[2020.05.18-03.23.37:822][250]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh9.StaticMesh9
+[2020.05.18-03.23.46:198][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/StaticMesh9" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset" SILENT=true
+[2020.05.18-03.23.46:235][680]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/StaticMesh9F027F24B4A0DCB2432F63993F39EC4E2.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/StaticMesh9.uasset'
+[2020.05.18-03.23.46:261][680]AssetCheck: New page: 资源保存：StaticMesh9
+[2020.05.18-03.23.46:261][680]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/StaticMesh9.StaticMesh9
+[2020.05.18-03.23.49:259][724]LogSlate: Window '消息' being destroyed
+[2020.05.18-03.23.49:298][724]LogStaticMesh: 正在构建静态网格体StaticMesh9……
+[2020.05.18-03.23.49:301][724]LogStaticMesh: Built static mesh [0.00s] /Game/paper/StaticMesh9.StaticMesh9
+[2020.05.18-03.23.49:332][724]LogSlate: Window 'StaticMesh9' being destroyed
+[2020.05.18-03.23.49:364][724]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.23.49:364][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.23.58:654][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StaticMesh)
+[2020.05.18-03.24.00:156][343]Cmd: DELETE
+[2020.05.18-03.24.00:156][343]Cmd: ACTOR DELETE
+[2020.05.18-03.24.00:169][343]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.18-03.24.00:203][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.05.18-03.24.00:208][343]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.05.18-03.24.24:040][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/Paper1" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper1.uasset" SILENT=true
+[2020.05.18-03.24.24:062][492]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Paper1C62A1A8F42A6A5905710DC869CE5E5E2.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper1.uasset'
+[2020.05.18-03.24.24:272][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.05.18-03.24.24:324][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.05.18-03.24.24:350][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.05.18-03.24.24:433][492]AssetCheck: New page: 资源保存：Paper1
+[2020.05.18-03.24.24:434][492]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/Paper1.Paper1
+[2020.05.18-03.24.34:840][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/Paper2" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper2.uasset" SILENT=true
+[2020.05.18-03.24.34:863][ 18]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Paper27826056B4239E996F3B84C9BC3E9E88D.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper2.uasset'
+[2020.05.18-03.24.35:072][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.18-03.24.35:117][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.05.18-03.24.35:144][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.05.18-03.24.35:226][ 18]AssetCheck: New page: 资源保存：Paper2
+[2020.05.18-03.24.35:226][ 18]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/Paper2.Paper2
+[2020.05.18-03.24.40:137][249]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/paper/StaticMesh3.StaticMesh3
+[2020.05.18-03.24.41:936][316]LogSlate: Window 'StaticMesh3' being destroyed
+[2020.05.18-03.24.41:950][316]LogSlate: Window 'StaticMesh3' being destroyed
+[2020.05.18-03.24.41:976][316]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.24.41:976][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.24.48:059][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/Paper3" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper3.uasset" SILENT=true
+[2020.05.18-03.24.48:081][611]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Paper33676D24F4F25F0B4CA97C4AF9E11DE67.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper3.uasset'
+[2020.05.18-03.24.48:293][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.05.18-03.24.48:341][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.05.18-03.24.48:368][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.18-03.24.48:469][611]AssetCheck: New page: 资源保存：Paper3
+[2020.05.18-03.24.48:469][611]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/Paper3.Paper3
+[2020.05.18-03.24.57:535][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/Paper4" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper4.uasset" SILENT=true
+[2020.05.18-03.24.57:556][ 56]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Paper407FA8E4A466FF8F6CE828BA59C4F6A4B.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper4.uasset'
+[2020.05.18-03.24.57:749][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.18-03.24.57:790][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.05.18-03.24.57:814][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.18-03.24.57:898][ 56]AssetCheck: New page: 资源保存：Paper4
+[2020.05.18-03.24.57:898][ 56]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/Paper4.Paper4
+[2020.05.18-03.25.07:855][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/Paper5" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper5.uasset" SILENT=true
+[2020.05.18-03.25.07:877][544]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Paper5460957374259EF6D6710D7A568A5B50A.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper5.uasset'
+[2020.05.18-03.25.08:088][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.18-03.25.08:134][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.05.18-03.25.08:162][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.05.18-03.25.08:243][544]AssetCheck: New page: 资源保存：Paper5
+[2020.05.18-03.25.08:243][544]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/Paper5.Paper5
+[2020.05.18-03.25.12:957][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/Paper6" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper6.uasset" SILENT=true
+[2020.05.18-03.25.12:981][780]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Paper6196F631A440218D00F62D98EC6019BF1.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper6.uasset'
+[2020.05.18-03.25.13:270][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.05.18-03.25.13:314][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.05.18-03.25.13:343][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.05.18-03.25.13:427][780]AssetCheck: New page: 资源保存：Paper6
+[2020.05.18-03.25.13:427][780]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/Paper6.Paper6
+[2020.05.18-03.25.19:222][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/Paper7" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper7.uasset" SILENT=true
+[2020.05.18-03.25.19:245][ 89]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Paper7D67EE8D147A523CAD97F11A27AF1F27F.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper7.uasset'
+[2020.05.18-03.25.19:452][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.05.18-03.25.19:498][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.05.18-03.25.19:529][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.18-03.25.19:613][ 89]AssetCheck: New page: 资源保存：Paper7
+[2020.05.18-03.25.19:613][ 89]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/Paper7.Paper7
+[2020.05.18-03.25.26:375][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/Paper8" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper8.uasset" SILENT=true
+[2020.05.18-03.25.26:401][432]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Paper81DD39DA34B3520B21B86A19B67553DBF.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper8.uasset'
+[2020.05.18-03.25.26:604][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.05.18-03.25.26:652][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.05.18-03.25.26:684][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.05.18-03.25.26:766][432]AssetCheck: New page: 资源保存：Paper8
+[2020.05.18-03.25.26:766][432]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/Paper8.Paper8
+[2020.05.18-03.25.31:473][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/Paper9" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper9.uasset" SILENT=true
+[2020.05.18-03.25.31:496][676]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Paper90231FFE14F8607A21D3504A14297480F.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/Paper9.uasset'
+[2020.05.18-03.25.31:703][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.18-03.25.31:748][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.05.18-03.25.31:776][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.18-03.25.31:873][676]AssetCheck: New page: 资源保存：Paper9
+[2020.05.18-03.25.31:873][676]LogContentValidation: Display: 正在验证StaticMesh /Game/paper/Paper9.Paper9
+[2020.05.18-03.25.35:806][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.05.18-03.25.35:848][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.18-03.25.35:880][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.05.18-03.25.36:312][869]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level21FA4C41774BF499AC6767969F673B85F1.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap'
+[2020.05.18-03.25.36:371][869]LogFileHelpers: Saving map 'Level21' took 0.524
+[2020.05.18-03.25.36:372][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/9_Mat" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/9_Mat.uasset" SILENT=true
+[2020.05.18-03.25.36:383][869]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/9_MatF80E784142D490B6BCE8859F2EF70F14.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/9_Mat.uasset'
+[2020.05.18-03.25.36:391][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paper/6_Mat" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/6_Mat.uasset" SILENT=true
+[2020.05.18-03.25.36:407][869]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/6_Mat12F0516A4D7D7F827C21FAB31966258A.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/paper/6_Mat.uasset'
+[2020.05.18-03.25.36:445][869]AssetCheck: New page: 资源保存：多个资源
+[2020.05.18-03.25.36:445][869]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.18-03.25.36:445][869]LogContentValidation: Display: 正在验证Material /Game/paper/9_Mat.9_Mat
+[2020.05.18-03.25.36:445][869]LogContentValidation: Display: 正在验证Material /Game/paper/6_Mat.6_Mat
+[2020.05.18-03.25.44:209][275]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.BP_Pickup_Child_1
+[2020.05.18-03.25.44:487][275]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.05.18-03.25.45:691][275]LogSlate: Took 0.000905 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.18-03.25.47:444][361]LogRenderer: Reallocating scene render targets to support 1860x896 Format 10 NumSamples 1 (Frame:1).
+[2020.05.18-03.27.00:139][247]LogEditorTransaction: Undo 修改组件
+[2020.05.18-03.27.02:328][357]Cmd: MODE ROTGRID=1
+[2020.05.18-03.27.39:199][252]BlueprintLog: New page: 编译BP_Pickup_Child_1
+[2020.05.18-03.27.39:597][252]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.05.18-03.27.42:786][413]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_1707445414C0E533028741BAFA6A86882.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.uasset'
+[2020.05.18-03.27.42:820][413]AssetCheck: New page: 资源保存：BP_Pickup_Child_1
+[2020.05.18-03.27.42:820][413]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.BP_Pickup_Child_1
+[2020.05.18-03.27.46:305][603]LogSlate: Window 'BP_Pickup_Child_1' being destroyed
+[2020.05.18-03.27.46:351][603]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.27.46:351][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.28.05:258][598]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.BP_Pickup_Child_2
+[2020.05.18-03.28.08:787][752]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.BP_Pickup_Child_3
+[2020.05.18-03.28.11:855][877]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_4.BP_Pickup_Child_4
+[2020.05.18-03.28.14:472][975]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_5.BP_Pickup_Child_5
+[2020.05.18-03.28.19:555][228]LogSlate: Window 'BP_Pickup_Child_5' being destroyed
+[2020.05.18-03.28.21:787][344]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_6.BP_Pickup_Child_6
+[2020.05.18-03.28.24:787][455]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_7.BP_Pickup_Child_7
+[2020.05.18-03.28.28:105][590]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_8.BP_Pickup_Child_8
+[2020.05.18-03.28.30:954][698]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_9.BP_Pickup_Child_9
+[2020.05.18-03.28.49:168][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.BP_Pickup_Child_1
+[2020.05.18-03.29.10:652][848]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:652][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.10:653][848]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:653][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.10:654][848]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:654][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.10:654][848]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:654][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.10:655][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:655][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:655][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:655][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:656][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:656][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:656][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:656][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:657][848]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:657][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.10:657][848]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:657][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.10:657][848]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:657][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.10:658][848]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:658][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.10:658][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:658][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:659][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:659][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:659][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:659][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:659][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:659][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:667][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:667][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:668][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:668][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:668][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:668][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.10:668][848]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.10:668][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.14:024][ 47]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:025][ 47]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:025][ 47]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:025][ 47]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:026][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:027][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:027][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:027][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:028][ 47]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:029][ 47]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:029][ 47]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:029][ 47]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:030][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:030][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:030][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:031][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:040][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:040][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:041][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.14:041][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:801][449]LogEditorTransaction: Undo 设置缩放
+[2020.05.18-03.29.20:803][449]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:803][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.20:804][449]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:804][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.20:804][449]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:804][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.20:804][449]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:804][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.20:805][449]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:805][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.20:805][449]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:805][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.20:805][449]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:805][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.20:806][449]LogPhysics: Warning: Scale for /Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:806][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Level21.Level21:PersistentLevel.BP_Pickup_Child_4.PickupMesh' 
+[2020.05.18-03.29.20:870][449]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:870][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.20:871][449]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:871][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.20:871][449]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:872][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.20:872][449]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.18-03.29.20:872][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_25:PersistentLevel.BP_Pickup_Child_1_C_0.PickupMesh' 
+[2020.05.18-03.29.22:119][510]LogEditorTransaction: Undo 设置缩放
+[2020.05.18-03.29.49:852][101]BlueprintLog: New page: 编译BP_Pickup_Child_1
+[2020.05.18-03.29.50:462][101]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.05.18-03.29.57:621][523]BlueprintLog: New page: 编译BP_Pickup_Child_1
+[2020.05.18-03.29.57:934][523]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.05.18-03.29.58:643][556]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_13D88F0F2457D6937BAE009B4A61798D3.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.uasset'
+[2020.05.18-03.29.58:667][556]AssetCheck: New page: 资源保存：BP_Pickup_Child_1
+[2020.05.18-03.29.58:667][556]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.BP_Pickup_Child_1
+[2020.05.18-03.31.14:516][883]BlueprintLog: New page: 编译BP_Pickup_Child_2
+[2020.05.18-03.31.14:868][883]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.05.18-03.31.15:625][919]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_2A90151BE40DC62A01A6A8ABE147133B7.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.uasset'
+[2020.05.18-03.31.15:657][919]AssetCheck: New page: 资源保存：BP_Pickup_Child_2
+[2020.05.18-03.31.15:657][919]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.BP_Pickup_Child_2
+[2020.05.18-03.31.40:705][344]LogEditorTransaction: Undo 修改组件
+[2020.05.18-03.31.47:730][736]BlueprintLog: New page: 编译BP_Pickup_Child_2
+[2020.05.18-03.31.48:085][736]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.05.18-03.31.48:757][767]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_27E113406418EC7A3B0822B833AAD1376.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.uasset'
+[2020.05.18-03.31.48:781][767]AssetCheck: New page: 资源保存：BP_Pickup_Child_2
+[2020.05.18-03.31.48:781][767]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.BP_Pickup_Child_2
+[2020.05.18-03.32.01:495][512]BlueprintLog: New page: 编译BP_Pickup_Child_1
+[2020.05.18-03.32.01:825][512]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.05.18-03.32.02:765][559]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_1CCCEF01A4C25D16BD31B8CACC07D2A3F.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.uasset'
+[2020.05.18-03.32.02:787][559]AssetCheck: New page: 资源保存：BP_Pickup_Child_1
+[2020.05.18-03.32.02:788][559]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.BP_Pickup_Child_1
+[2020.05.18-03.32.20:412][585]BlueprintLog: New page: 编译BP_Pickup_Child_3
+[2020.05.18-03.32.20:771][585]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.05.18-03.32.21:589][624]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_3B8AF105447C83F293F25448A61186589.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.uasset'
+[2020.05.18-03.32.21:616][624]AssetCheck: New page: 资源保存：BP_Pickup_Child_3
+[2020.05.18-03.32.21:616][624]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.BP_Pickup_Child_3
+[2020.05.18-03.34.13:923][ 77]BlueprintLog: New page: 编译BP_Pickup_Child_3
+[2020.05.18-03.34.14:289][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.05.18-03.34.29:238][952]BlueprintLog: New page: 编译BP_Pickup_Child_3
+[2020.05.18-03.34.29:579][952]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.05.18-03.34.31:057][ 32]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_35635F54D4E907A8304FC6585799CDA13.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.uasset'
+[2020.05.18-03.34.31:082][ 32]AssetCheck: New page: 资源保存：BP_Pickup_Child_3
+[2020.05.18-03.34.31:082][ 32]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.BP_Pickup_Child_3
+[2020.05.18-03.35.14:539][558]BlueprintLog: New page: 编译BP_Pickup_Child_4
+[2020.05.18-03.35.14:918][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.05.18-03.35.15:696][595]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_4BBF49A5D4034CE9D70D818B9B6BD9781.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_4.uasset'
+[2020.05.18-03.35.15:718][595]AssetCheck: New page: 资源保存：BP_Pickup_Child_4
+[2020.05.18-03.35.15:719][595]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_4.BP_Pickup_Child_4
+[2020.05.18-03.35.39:636][964]BlueprintLog: New page: 编译BP_Pickup_Child_1
+[2020.05.18-03.35.39:981][964]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.05.18-03.35.41:162][ 22]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_1D4C2885B4A4E4BE77950A1BBFDFF755A.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.uasset'
+[2020.05.18-03.35.41:187][ 22]AssetCheck: New page: 资源保存：BP_Pickup_Child_1
+[2020.05.18-03.35.41:187][ 22]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.BP_Pickup_Child_1
+[2020.05.18-03.36.03:388][318]BlueprintLog: New page: 编译BP_Pickup_Child_1
+[2020.05.18-03.36.03:734][318]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.05.18-03.37.14:510][974]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_1.BP_InventoryActor_Child_1
+[2020.05.18-03.37.36:865][238]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.37.36:865][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.39.36:739][ 74]BlueprintLog: New page: 编译BP_Pickup_Child_1
+[2020.05.18-03.39.37:094][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.05.18-03.39.37:712][101]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_1FBEBA9014CF160FE56B8EE82D1FB13A8.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.uasset'
+[2020.05.18-03.39.37:736][101]AssetCheck: New page: 资源保存：BP_Pickup_Child_1
+[2020.05.18-03.39.37:737][101]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.BP_Pickup_Child_1
+[2020.05.18-03.39.52:555][957]BlueprintLog: New page: 编译BP_Pickup_Child_2
+[2020.05.18-03.39.52:884][957]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.05.18-03.39.56:944][176]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_2E0FC232E472E901CD2BCEA9B9D4B857B.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.uasset'
+[2020.05.18-03.39.56:965][176]AssetCheck: New page: 资源保存：BP_Pickup_Child_2
+[2020.05.18-03.39.56:965][176]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.BP_Pickup_Child_2
+[2020.05.18-03.40.19:337][459]BlueprintLog: New page: 编译BP_Pickup_Child_3
+[2020.05.18-03.40.19:698][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.05.18-03.40.20:486][495]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_37D2AB3054F3CD89A783E8F8A0E059D73.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.uasset'
+[2020.05.18-03.40.20:511][495]AssetCheck: New page: 资源保存：BP_Pickup_Child_3
+[2020.05.18-03.40.20:511][495]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.BP_Pickup_Child_3
+[2020.05.18-03.40.33:635][261]BlueprintLog: New page: 编译BP_Pickup_Child_4
+[2020.05.18-03.40.33:963][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.05.18-03.40.34:467][281]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_45F41F9294D266A01473936B3700C22FB.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_4.uasset'
+[2020.05.18-03.40.34:491][281]AssetCheck: New page: 资源保存：BP_Pickup_Child_4
+[2020.05.18-03.40.34:491][281]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_4.BP_Pickup_Child_4
+[2020.05.18-03.40.57:802][608]BlueprintLog: New page: 编译BP_Pickup_Child_5
+[2020.05.18-03.40.58:125][608]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.05.18-03.41.36:965][853]BlueprintLog: New page: 编译BP_Pickup_Child_5
+[2020.05.18-03.41.37:385][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.05.18-03.41.38:101][886]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_5E7AF0175425EA2456A0CE9B43E565459.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_5.uasset'
+[2020.05.18-03.41.38:131][886]AssetCheck: New page: 资源保存：BP_Pickup_Child_5
+[2020.05.18-03.41.38:131][886]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_5.BP_Pickup_Child_5
+[2020.05.18-03.42.17:696][967]BlueprintLog: New page: 编译BP_Pickup_Child_6
+[2020.05.18-03.42.18:019][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.05.18-03.42.18:669][994]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_6A14D63E6454CAD112B54F59D737E38F5.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_6.uasset'
+[2020.05.18-03.42.18:694][994]AssetCheck: New page: 资源保存：BP_Pickup_Child_6
+[2020.05.18-03.42.18:694][994]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_6.BP_Pickup_Child_6
+[2020.05.18-03.43.00:797][415]BlueprintLog: New page: 编译BP_Pickup_Child_7
+[2020.05.18-03.43.01:158][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.05.18-03.43.01:724][439]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_779D2A5CF4CD594DF5A6BD489445453B7.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_7.uasset'
+[2020.05.18-03.43.01:751][439]AssetCheck: New page: 资源保存：BP_Pickup_Child_7
+[2020.05.18-03.43.01:751][439]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_7.BP_Pickup_Child_7
+[2020.05.18-03.43.39:728][599]BlueprintLog: New page: 编译BP_Pickup_Child_8
+[2020.05.18-03.43.40:085][599]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.05.18-03.43.40:705][626]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_8D674D55F4BE205254AAEEA932C0BE94D.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_8.uasset'
+[2020.05.18-03.43.40:733][626]AssetCheck: New page: 资源保存：BP_Pickup_Child_8
+[2020.05.18-03.43.40:733][626]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_8.BP_Pickup_Child_8
+[2020.05.18-03.44.19:661][842]BlueprintLog: New page: 编译BP_Pickup_Child_9
+[2020.05.18-03.44.20:037][842]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.05.18-03.44.20:627][867]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_94A7FFB7F47E3122167EBEF9588060182.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_9.uasset'
+[2020.05.18-03.44.20:654][867]AssetCheck: New page: 资源保存：BP_Pickup_Child_9
+[2020.05.18-03.44.20:654][867]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_9.BP_Pickup_Child_9
+[2020.05.18-03.44.22:446][968]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.44.22:446][968]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.44.22:446][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.44.23:482][ 21]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.44.23:482][ 21]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.44.23:482][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.44.23:959][ 44]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.44.23:959][ 44]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.44.23:959][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.44.24:398][ 63]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.44.24:398][ 63]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.44.24:398][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.44.24:769][ 78]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.44.24:769][ 78]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.44.24:769][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.44.25:172][ 95]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.44.25:172][ 95]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.44.25:172][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.44.25:577][112]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.44.25:577][112]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.44.25:577][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.44.25:941][126]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.44.25:941][126]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.44.25:941][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.44.26:370][145]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.44.26:370][145]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.44.26:370][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.44.28:730][264]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.05.18-03.44.28:764][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.18-03.44.28:807][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.05.18-03.44.29:343][264]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level21203CF0244B172604CC9B84B9FF733AA0.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap'
+[2020.05.18-03.44.29:402][264]LogFileHelpers: Saving map 'Level21' took 0.638
+[2020.05.18-03.44.29:455][264]AssetCheck: New page: 资源保存：Level21
+[2020.05.18-03.44.29:455][264]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.18-03.44.32:470][440]LogEditorViewport: Clicking on Actor (LMB): BP_Pickup_Child_1_C (BP_Pickup_Child_1)
+[2020.05.18-03.44.34:047][532]Cmd: DELETE
+[2020.05.18-03.44.34:047][532]Cmd: ACTOR DELETE
+[2020.05.18-03.44.34:059][532]LogEditorActor: Deleted Actor: BP_Pickup_Child_1_C
+[2020.05.18-03.44.34:107][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.05.18-03.44.34:113][532]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2020.05.18-03.44.44:071][  8]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_1.BP_InventoryActor_Child_1
+[2020.05.18-03.45.36:110][ 24]BlueprintLog: New page: 编译BP_InventoryActor_Child_1
+[2020.05.18-03.45.36:454][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.05.18-03.45.37:314][ 66]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_15CECC12849D13727939196AE57BAD103.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_1.uasset'
+[2020.05.18-03.45.37:352][ 66]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_1
+[2020.05.18-03.45.37:352][ 66]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_1.BP_InventoryActor_Child_1
+[2020.05.18-03.45.39:730][197]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_2.BP_InventoryActor_Child_2
+[2020.05.18-03.45.43:028][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_3.BP_InventoryActor_Child_3
+[2020.05.18-03.45.45:296][449]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_4.BP_InventoryActor_Child_4
+[2020.05.18-03.45.47:847][560]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.BP_InventoryActor_Child_5
+[2020.05.18-03.45.50:945][666]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.BP_InventoryActor_Child_6
+[2020.05.18-03.45.53:516][777]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_7.BP_InventoryActor_Child_7
+[2020.05.18-03.45.55:964][880]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_8.BP_InventoryActor_Child_8
+[2020.05.18-03.45.58:827][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_9.BP_InventoryActor_Child_9
+[2020.05.18-03.46.47:549][783]BlueprintLog: New page: 编译BP_InventoryActor_Child_2
+[2020.05.18-03.46.47:893][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.05.18-03.46.48:851][828]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_2700EC8FE46D4D3C42F33E7B37B73BBE5.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_2.uasset'
+[2020.05.18-03.46.48:886][828]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_2
+[2020.05.18-03.46.48:886][828]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_2.BP_InventoryActor_Child_2
+[2020.05.18-03.46.59:781][450]BlueprintLog: New page: 编译BP_InventoryActor_Child_3
+[2020.05.18-03.47.00:103][450]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.05.18-03.47.20:549][622]BlueprintLog: New page: 编译BP_InventoryActor_Child_3
+[2020.05.18-03.47.20:864][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.05.18-03.47.21:500][650]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_3AEBD6E644A45394887967CA131D4B1ED.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_3.uasset'
+[2020.05.18-03.47.21:533][650]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_3
+[2020.05.18-03.47.21:533][650]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_3.BP_InventoryActor_Child_3
+[2020.05.18-03.47.53:564][502]BlueprintLog: New page: 编译BP_InventoryActor_Child_4
+[2020.05.18-03.47.53:870][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.05.18-03.47.54:697][542]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_49402A97B468AF5E0C667EFA6F9231E00.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_4.uasset'
+[2020.05.18-03.47.54:731][542]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_4
+[2020.05.18-03.47.54:731][542]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_4.BP_InventoryActor_Child_4
+[2020.05.18-03.49.01:327][403]BlueprintLog: New page: 编译BP_InventoryActor_Child_5
+[2020.05.18-03.49.01:643][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.05.18-03.49.02:205][427]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_5CBBD68224C3C73D27FEFADA077BA83A5.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.uasset'
+[2020.05.18-03.49.02:235][427]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_5
+[2020.05.18-03.49.02:235][427]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.BP_InventoryActor_Child_5
+[2020.05.18-03.52.22:748][762]BlueprintLog: New page: 编译BP_InventoryActor_Child_6
+[2020.05.18-03.52.23:083][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.05.18-03.52.23:767][794]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_614BFB17A42078CB51E2EC49A23436512.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.uasset'
+[2020.05.18-03.52.23:797][794]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_6
+[2020.05.18-03.52.23:797][794]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.BP_InventoryActor_Child_6
+[2020.05.18-03.52.34:151][390]BlueprintLog: New page: 编译BP_InventoryActor_Child_7
+[2020.05.18-03.52.34:467][390]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.05.18-03.52.58:511][781]BlueprintLog: New page: 编译BP_InventoryActor_Child_7
+[2020.05.18-03.52.58:825][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.05.18-03.53.00:263][859]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_7E0DDDE5C478759DB013041ADA3B2B82F.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_7.uasset'
+[2020.05.18-03.53.00:289][859]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_7
+[2020.05.18-03.53.00:289][859]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_7.BP_InventoryActor_Child_7
+[2020.05.18-03.53.29:162][522]BlueprintLog: New page: 编译BP_InventoryActor_Child_8
+[2020.05.18-03.53.29:478][522]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.05.18-03.53.30:017][544]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_83B94B53949AF929CBD47D98F5F0A00B4.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_8.uasset'
+[2020.05.18-03.53.30:052][544]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_8
+[2020.05.18-03.53.30:052][544]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_8.BP_InventoryActor_Child_8
+[2020.05.18-03.53.54:598][948]BlueprintLog: New page: 编译BP_InventoryActor_Child_9
+[2020.05.18-03.53.54:907][948]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.05.18-03.53.58:232][132]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_9B4DC123E41AC97D8ED1B47B6650ECE39.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_9.uasset'
+[2020.05.18-03.53.58:259][132]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_9
+[2020.05.18-03.53.58:260][132]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_9.BP_InventoryActor_Child_9
+[2020.05.18-03.53.59:773][221]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.53.59:773][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.54.00:658][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.54.00:658][267]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.54.00:658][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.54.01:173][293]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.54.01:173][293]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.54.01:173][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.54.01:639][316]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.54.01:639][316]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.54.01:639][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.54.02:105][339]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.54.02:105][339]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.54.02:105][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.54.02:490][357]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.54.02:490][357]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.54.02:490][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.54.02:900][377]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.54.02:900][377]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.54.02:900][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.54.03:922][434]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.54.03:922][434]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.54.03:922][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.54.04:383][455]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-03.54.04:383][455]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-03.54.04:383][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-03.54.07:178][602]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.05.18-03.54.07:218][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.18-03.54.07:259][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.05.18-03.54.07:796][602]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level21E5172CDB4560F4FCA2657396F3647126.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap'
+[2020.05.18-03.54.07:856][602]LogFileHelpers: Saving map 'Level21' took 0.638
+[2020.05.18-03.54.07:906][602]AssetCheck: New page: 资源保存：Level21
+[2020.05.18-03.54.07:906][602]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
