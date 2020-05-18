@@ -1661,3 +1661,222 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-02.28.59:975][927]AssetCheck: New page: 资源保存：Level21
 [2020.05.18-02.28.59:975][927]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
 [2020.05.18-02.29.02:618][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.05.18-02.30.22:707][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InteractBPs/BP_Interact_Child_Tree.BP_Interact_Child_Tree
+[2020.05.18-02.32.08:886][689]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.32.08:886][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.32.18:706][236]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.32.18:706][236]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.32.18:706][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.32.26:167][637]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_9.BP_InventoryActor_Child_9
+[2020.05.18-02.32.58:289][945]BlueprintLog: New page: 编译BP_InventoryActor_Child_9
+[2020.05.18-02.32.58:732][945]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2020.05.18-02.33.10:503][634]BlueprintLog: New page: 编译BP_InventoryActor_Child_9
+[2020.05.18-02.33.10:923][634]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2020.05.18-02.33.11:735][674]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_9C3DEF9064F88E81BA958EFB8ADC9356A.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_9.uasset'
+[2020.05.18-02.33.11:768][674]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_9
+[2020.05.18-02.33.11:768][674]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_9.BP_InventoryActor_Child_9
+[2020.05.18-02.33.13:533][773]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.33.13:533][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.33.25:197][446]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.33.25:197][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.33.25:236][446]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.33.25:237][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.33.27:178][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.33.27:179][545]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.33.27:179][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.33.28:706][622]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.33.28:706][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.33.31:865][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_1.BP_InventoryActor_Child_1
+[2020.05.18-02.33.55:212][853]BlueprintLog: New page: 编译BP_InventoryActor_Child_1
+[2020.05.18-02.33.55:757][853]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2020.05.18-02.33.56:699][899]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_1B1B73ECD4A81DA5FD3C815853EA8B487.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_1.uasset'
+[2020.05.18-02.33.56:731][899]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_1
+[2020.05.18-02.33.56:731][899]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_1.BP_InventoryActor_Child_1
+[2020.05.18-02.34.05:343][391]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_2.BP_InventoryActor_Child_2
+[2020.05.18-02.34.19:966][207]BlueprintLog: New page: 编译BP_InventoryActor_Child_2
+[2020.05.18-02.34.20:446][207]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2020.05.18-02.34.21:344][250]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_20BB35226469AB0C16CBCB09C8D611316.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_2.uasset'
+[2020.05.18-02.34.21:374][250]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_2
+[2020.05.18-02.34.21:375][250]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_2.BP_InventoryActor_Child_2
+[2020.05.18-02.34.23:493][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_3.BP_InventoryActor_Child_3
+[2020.05.18-02.34.34:469][983]BlueprintLog: New page: 编译BP_InventoryActor_Child_3
+[2020.05.18-02.34.34:763][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.05.18-02.34.35:706][ 30]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_37DC073B7428054B2DABB4FB62A9E9178.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_3.uasset'
+[2020.05.18-02.34.35:730][ 30]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_3
+[2020.05.18-02.34.35:730][ 30]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_3.BP_InventoryActor_Child_3
+[2020.05.18-02.34.40:605][309]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_4.BP_InventoryActor_Child_4
+[2020.05.18-02.34.49:637][795]BlueprintLog: New page: 编译BP_InventoryActor_Child_4
+[2020.05.18-02.34.49:932][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.05.18-02.34.50:864][842]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_45B3836474289C6EEE952589A36575ACF.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_4.uasset'
+[2020.05.18-02.34.50:888][842]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_4
+[2020.05.18-02.34.50:888][842]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_4.BP_InventoryActor_Child_4
+[2020.05.18-02.34.53:055][959]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.BP_InventoryActor_Child_5
+[2020.05.18-02.35.00:484][358]BlueprintLog: New page: 编译BP_InventoryActor_Child_5
+[2020.05.18-02.35.00:799][358]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.05.18-02.35.01:662][401]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_595CF09194D9D5E422734498AB9EB3F3E.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.uasset'
+[2020.05.18-02.35.01:691][401]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_5
+[2020.05.18-02.35.01:691][401]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.BP_InventoryActor_Child_5
+[2020.05.18-02.35.04:187][541]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.BP_InventoryActor_Child_6
+[2020.05.18-02.35.13:862][ 55]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_6C1E5EDFB4DD4095261D61484E8FBE95F.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.uasset'
+[2020.05.18-02.35.13:886][ 55]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_6
+[2020.05.18-02.35.13:886][ 55]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.BP_InventoryActor_Child_6
+[2020.05.18-02.35.15:897][173]BlueprintLog: New page: 编译BP_InventoryActor_Child_6
+[2020.05.18-02.35.16:202][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.05.18-02.35.17:162][223]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_693EABA804A8280EA12D698BE21CB1E90.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.uasset'
+[2020.05.18-02.35.17:183][223]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_6
+[2020.05.18-02.35.17:183][223]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.BP_InventoryActor_Child_6
+[2020.05.18-02.35.20:608][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_7.BP_InventoryActor_Child_7
+[2020.05.18-02.35.41:798][618]BlueprintLog: New page: 编译BP_InventoryActor_Child_7
+[2020.05.18-02.35.42:107][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.05.18-02.35.42:959][662]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_793FB4C064D3F2BD9AB9F55A4C8D926C6.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_7.uasset'
+[2020.05.18-02.35.42:985][662]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_7
+[2020.05.18-02.35.42:985][662]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_7.BP_InventoryActor_Child_7
+[2020.05.18-02.35.48:898][998]BlueprintLog: New page: 编译BP_InventoryActor_Child_6
+[2020.05.18-02.35.49:214][998]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.05.18-02.35.49:866][ 30]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_68B36010A4BAD9A5403E43F990E4BC803.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.uasset'
+[2020.05.18-02.35.49:890][ 30]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_6
+[2020.05.18-02.35.49:891][ 30]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_6.BP_InventoryActor_Child_6
+[2020.05.18-02.35.54:150][268]BlueprintLog: New page: 编译BP_InventoryActor_Child_5
+[2020.05.18-02.35.54:476][268]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.05.18-02.35.55:197][303]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_511E5C60F4892F1A0B2953F86E2109B9D.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.uasset'
+[2020.05.18-02.35.55:222][303]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_5
+[2020.05.18-02.35.55:222][303]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_5.BP_InventoryActor_Child_5
+[2020.05.18-02.35.59:431][536]BlueprintLog: New page: 编译BP_InventoryActor_Child_4
+[2020.05.18-02.35.59:740][536]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.05.18-02.36.00:618][579]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_4C0AEEE284008FD6C571EA5968E3690BD.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_4.uasset'
+[2020.05.18-02.36.00:642][579]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_4
+[2020.05.18-02.36.00:642][579]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_4.BP_InventoryActor_Child_4
+[2020.05.18-02.36.04:636][802]BlueprintLog: New page: 编译BP_InventoryActor_Child_3
+[2020.05.18-02.36.04:939][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.05.18-02.36.05:829][848]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_37D4134984486F06D02A53DBB671CDB39.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_3.uasset'
+[2020.05.18-02.36.05:856][848]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_3
+[2020.05.18-02.36.05:856][848]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_3.BP_InventoryActor_Child_3
+[2020.05.18-02.36.10:551][107]BlueprintLog: New page: 编译BP_InventoryActor_Child_2
+[2020.05.18-02.36.10:862][107]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.05.18-02.36.11:502][136]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_2376CEDCC4BCC6D152C842DBC53D18DD4.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_2.uasset'
+[2020.05.18-02.36.11:535][136]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_2
+[2020.05.18-02.36.11:535][136]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_2.BP_InventoryActor_Child_2
+[2020.05.18-02.36.17:667][484]BlueprintLog: New page: 编译BP_InventoryActor_Child_1
+[2020.05.18-02.36.17:984][484]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.05.18-02.36.18:601][511]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_122932E544DBCAB2D223953921F4FD179.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_1.uasset'
+[2020.05.18-02.36.18:629][511]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_1
+[2020.05.18-02.36.18:629][511]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_1.BP_InventoryActor_Child_1
+[2020.05.18-02.36.20:546][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_8.BP_InventoryActor_Child_8
+[2020.05.18-02.36.23:665][742]BlueprintLog: New page: 编译BP_InventoryActor_Child_8
+[2020.05.18-02.36.23:980][742]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.05.18-02.36.24:822][783]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_8811134B448C7F2E9E77C708434744DAC.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_8.uasset'
+[2020.05.18-02.36.24:851][783]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_8
+[2020.05.18-02.36.24:851][783]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_8.BP_InventoryActor_Child_8
+[2020.05.18-02.36.37:198][483]BlueprintLog: New page: 编译BP_InventoryActor_Child_7
+[2020.05.18-02.36.37:515][483]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.05.18-02.36.38:283][519]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_7D2379E594AFD9FE4B324EE9183DF31AE.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_7.uasset'
+[2020.05.18-02.36.38:313][519]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_7
+[2020.05.18-02.36.38:313][519]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_7.BP_InventoryActor_Child_7
+[2020.05.18-02.36.46:137][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_9.BP_InventoryActor_Child_9
+[2020.05.18-02.36.55:235][440]BlueprintLog: New page: 编译BP_InventoryActor_Child_9
+[2020.05.18-02.36.55:561][440]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.05.18-02.36.56:695][499]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_InventoryActor_Child_9BC3541C6433672F91B3CA69D64F46C35.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_9.uasset'
+[2020.05.18-02.36.56:723][499]AssetCheck: New page: 资源保存：BP_InventoryActor_Child_9
+[2020.05.18-02.36.56:723][499]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InventoryActorBPS/BP_InventoryActor_Child_9.BP_InventoryActor_Child_9
+[2020.05.18-02.37.03:484][876]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.37.03:484][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.37.04:605][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.37.04:606][937]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.37.04:606][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.37.05:491][982]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.37.05:491][982]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.37.05:491][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.37.06:095][ 10]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.37.06:096][ 10]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.37.06:096][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.37.06:547][ 31]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.37.06:548][ 31]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.37.06:548][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.37.06:920][ 48]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.37.06:920][ 48]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.37.06:920][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.37.07:202][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.37.07:202][ 60]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.37.07:202][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.37.07:531][ 75]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.37.07:531][ 75]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.37.07:531][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.37.07:862][ 90]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-02.37.07:863][ 90]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-02.37.07:863][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-02.37.09:599][179]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.BP_Pickup_Child_1
+[2020.05.18-02.37.47:421][996]BlueprintLog: New page: 编译BP_Pickup_Child_1
+[2020.05.18-02.37.47:742][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.05.18-02.37.48:699][ 44]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_1562F9973402BC664631FC5A46B7C4F92.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.uasset'
+[2020.05.18-02.37.48:723][ 44]AssetCheck: New page: 资源保存：BP_Pickup_Child_1
+[2020.05.18-02.37.48:723][ 44]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_1.BP_Pickup_Child_1
+[2020.05.18-02.37.54:646][372]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.BP_Pickup_Child_2
+[2020.05.18-02.38.14:409][212]BlueprintLog: New page: 编译BP_Pickup_Child_2
+[2020.05.18-02.38.14:710][212]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2020.05.18-02.38.15:773][266]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_2BED6D9AC43F944C46946C3A0884094AC.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.uasset'
+[2020.05.18-02.38.15:803][266]AssetCheck: New page: 资源保存：BP_Pickup_Child_2
+[2020.05.18-02.38.15:803][266]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_2.BP_Pickup_Child_2
+[2020.05.18-02.39.13:128][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.BP_Pickup_Child_3
+[2020.05.18-02.39.48:693][262]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.05.18-02.39.48:698][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/Level21_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.18-02.39.49:678][262]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level21_Auto96319ECB5441D80328E28F98DFB7A7996.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/Level21_Auto9.umap'
+[2020.05.18-02.39.49:802][262]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level21' took 1.159
+[2020.05.18-02.39.49:802][262]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.159
+[2020.05.18-02.39.49:802][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CVInvInterface/Blueprints/InteractBPs/BP_Interact_Child_Tree] ([1] browsable assets)...
+[2020.05.18-02.39.49:803][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/CVInvInterface/Blueprints/InteractBPs/BP_Interact_Child_Tree]
+[2020.05.18-02.39.49:883][262]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Interact_Child_Tree_Auto9E789C84E40B6E081DC8DE899C738E4BD.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/CVInvInterface/Blueprints/InteractBPs/BP_Interact_Child_Tree_Auto9.uasset'
+[2020.05.18-02.39.49:886][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3] ([1] browsable assets)...
+[2020.05.18-02.39.49:886][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3]
+[2020.05.18-02.39.49:948][262]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_3_Auto91A7B52974F1EDCBF05722290A055A4B8.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Autosaves/Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3_Auto9.uasset'
+[2020.05.18-02.39.49:950][262]LogFileHelpers: Auto-saving content packages took 0.148
+[2020.05.18-02.40.20:580][748]BlueprintLog: New page: 编译BP_Pickup_Child_3
+[2020.05.18-02.40.20:910][748]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.05.18-02.40.21:880][796]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_38DF9EC3640404AC955215BAB28C6AFED.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.uasset'
+[2020.05.18-02.40.21:960][796]AssetCheck: New page: 资源保存：BP_Pickup_Child_3
+[2020.05.18-02.40.21:960][796]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_3.BP_Pickup_Child_3
+[2020.05.18-02.40.28:161][141]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_4.BP_Pickup_Child_4
+[2020.05.18-02.40.50:350][174]BlueprintLog: New page: 编译BP_Pickup_Child_4
+[2020.05.18-02.40.50:678][174]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.05.18-02.40.54:754][400]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_49C106DE54CFD79AFD664D6B821402A92.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_4.uasset'
+[2020.05.18-02.40.54:780][400]AssetCheck: New page: 资源保存：BP_Pickup_Child_4
+[2020.05.18-02.40.54:780][400]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_4.BP_Pickup_Child_4
+[2020.05.18-02.40.56:757][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_5.BP_Pickup_Child_5
+[2020.05.18-02.41.14:777][232]BlueprintLog: New page: 编译BP_Pickup_Child_5
+[2020.05.18-02.41.15:093][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.05.18-02.41.15:861][266]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_5238ABF6149C5259E2BDA52B1B0B60046.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_5.uasset'
+[2020.05.18-02.41.15:927][266]AssetCheck: New page: 资源保存：BP_Pickup_Child_5
+[2020.05.18-02.41.15:927][266]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_5.BP_Pickup_Child_5
+[2020.05.18-02.41.17:305][340]LogSlate: Window 'BP_Pickup_Child_5' being destroyed
+[2020.05.18-02.41.19:954][487]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_6.BP_Pickup_Child_6
+[2020.05.18-02.41.41:639][488]BlueprintLog: New page: 编译BP_Pickup_Child_6
+[2020.05.18-02.41.41:994][488]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.05.18-02.41.43:123][546]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_6234A234B407DBD717E3F5995550679B2.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_6.uasset'
+[2020.05.18-02.41.43:150][546]AssetCheck: New page: 资源保存：BP_Pickup_Child_6
+[2020.05.18-02.41.43:150][546]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_6.BP_Pickup_Child_6
+[2020.05.18-02.41.46:151][711]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_7.BP_Pickup_Child_7
+[2020.05.18-02.42.23:055][353]BlueprintLog: New page: 编译BP_Pickup_Child_7
+[2020.05.18-02.42.23:402][353]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.05.18-02.42.24:099][387]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_73652BDB84B03475E4DBCA5A2BD762E07.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_7.uasset'
+[2020.05.18-02.42.24:123][387]AssetCheck: New page: 资源保存：BP_Pickup_Child_7
+[2020.05.18-02.42.24:123][387]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_7.BP_Pickup_Child_7
+[2020.05.18-02.42.28:067][611]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_8.BP_Pickup_Child_8
+[2020.05.18-02.42.49:078][497]BlueprintLog: New page: 编译BP_Pickup_Child_8
+[2020.05.18-02.42.49:411][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.05.18-02.42.50:699][566]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_8E8FD8DF14A6758D8DBBC7EAA599BA31C.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_8.uasset'
+[2020.05.18-02.42.50:730][566]AssetCheck: New page: 资源保存：BP_Pickup_Child_8
+[2020.05.18-02.42.50:730][566]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_8.BP_Pickup_Child_8
+[2020.05.18-02.43.00:853][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_9.BP_Pickup_Child_9
+[2020.05.18-02.43.17:669][779]BlueprintLog: New page: 编译BP_Pickup_Child_9
+[2020.05.18-02.43.18:000][779]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.05.18-02.43.18:618][807]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Pickup_Child_9EE6E6E8A4D15885AC735E3AC3EF5B1BF.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_9.uasset'
+[2020.05.18-02.43.18:671][807]AssetCheck: New page: 资源保存：BP_Pickup_Child_9
+[2020.05.18-02.43.18:671][807]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/BaseBPs/BP_Pickup_Child_9.BP_Pickup_Child_9
+[2020.05.18-02.43.25:751][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.05.18-02.43.25:781][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.18-02.43.25:840][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.05.18-02.43.26:367][200]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level216840786242B9FCF50B5CF6A038CBD4EB.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap'
+[2020.05.18-02.43.26:422][200]LogFileHelpers: Saving map 'Level21' took 0.643
+[2020.05.18-02.43.26:478][200]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/BP_Interact_Child_TreeF1E8C6BC48BD1C37CFBF1285E02A79B1.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/CVInvInterface/Blueprints/InteractBPs/BP_Interact_Child_Tree.uasset'
+[2020.05.18-02.43.26:541][200]AssetCheck: New page: 资源保存：多个资源
+[2020.05.18-02.43.26:541][200]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.18-02.43.26:541][200]LogContentValidation: Display: 正在验证Blueprint /Game/CVInvInterface/Blueprints/InteractBPs/BP_Interact_Child_Tree.BP_Interact_Child_Tree
