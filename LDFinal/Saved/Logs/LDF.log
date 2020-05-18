@@ -1579,3 +1579,27 @@ Scale3D: 1.000000 1.000000 1.000000
 [2020.05.18-16.34.59:796][919]LogFileHelpers: Saving map 'Level21' took 0.843
 [2020.05.18-16.34.59:843][919]AssetCheck: New page: 资源保存：Level21
 [2020.05.18-16.34.59:843][919]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
+[2020.05.18-16.40.24:526][427]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Movies/Video/序列_03_复制_01.序列_03_复制_01
+[2020.05.18-16.42.49:566][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/Video/序列_03_复制_01" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Movies/Video/序列_03_复制_01.uasset" SILENT=true
+[2020.05.18-16.42.49:622][788]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/序列_03_复制_01A3B61457465D9F2B50E7C1BD7698D88E.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Movies/Video/序列_03_复制_01.uasset'
+[2020.05.18-16.42.49:649][788]AssetCheck: New page: 资源保存：序列_03_复制_01
+[2020.05.18-16.42.49:649][788]LogContentValidation: Display: 正在验证FileMediaSource /Game/Movies/Video/序列_03_复制_01.序列_03_复制_01
+[2020.05.18-16.42.50:818][851]LogSlate: Window '序列_03_复制_01' being destroyed
+[2020.05.18-16.42.50:826][851]LogSlate: Window '序列_03_复制_01' being destroyed
+[2020.05.18-16.42.52:362][934]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Movies/Video/序列_03.序列_03
+[2020.05.18-16.43.01:828][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/Video/序列_03" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Movies/Video/序列_03.uasset" SILENT=true
+[2020.05.18-16.43.01:878][ 81]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/序列_03EA83851248CF0B1F6794DD80F3C69AE2.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Movies/Video/序列_03.uasset'
+[2020.05.18-16.43.01:899][ 81]AssetCheck: New page: 资源保存：序列_03
+[2020.05.18-16.43.01:899][ 81]LogContentValidation: Display: 正在验证FileMediaSource /Game/Movies/Video/序列_03.序列_03
+[2020.05.18-16.43.02:454][113]LogSlate: Window '序列_03' being destroyed
+[2020.05.18-16.43.03:696][174]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Movies/Video/序列_02.序列_02
+[2020.05.18-16.43.10:695][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/Video/序列_02" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Movies/Video/序列_02.uasset" SILENT=true
+[2020.05.18-16.43.10:745][355]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/序列_02D7971C7849A7108337DCC9B43ABACCB6.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Movies/Video/序列_02.uasset'
+[2020.05.18-16.43.10:770][355]AssetCheck: New page: 资源保存：序列_02
+[2020.05.18-16.43.10:770][355]LogContentValidation: Display: 正在验证FileMediaSource /Game/Movies/Video/序列_02.序列_02
+[2020.05.18-16.43.11:841][414]LogSlate: Window '序列_02' being destroyed
+[2020.05.18-16.43.20:128][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level21" FILE="I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.18-16.43.20:183][887]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2020.05.18-16.43.20:825][887]LogSavePackage: Moving 'I:/Unreal Project/Level-Design-Final/LDFinal/Saved/Level212E5C334B4BDA0D192186B4AEA1065819.tmp' to 'I:/Unreal Project/Level-Design-Final/LDFinal/Content/Level21.umap'
+[2020.05.18-16.43.20:895][887]AssetCheck: New page: 资源保存：Level21
+[2020.05.18-16.43.20:895][887]LogContentValidation: Display: 正在验证World /Game/Level21.Level21
